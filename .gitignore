@@ -1,0 +1,30 @@
+# WordPress – never commit these
+wp-config.php
+/.env
+/.htaccess
+
+# Backups & large files
+/wp-content/updraft/
+/wp-content/backup*/
+/wp-content/ai1wm-backups/
+/wp-content/upgrade/
+/wp-content/backups-dup-pro/
+
+# Media uploads (too big + they belong in the live server or cloud storage)
+/wp-content/uploads/
+
+# Cache
+/wp-content/cache/
+/wp-content/w3tc-config/
+/wp-content/advanced-cache.php
+
+# Logs & big archives
+*.log
+*.zip
+*.gz
+*.sql
+*.tar
+
+# OS junk
+.DS_Store
+Thumbs.db

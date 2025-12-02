@@ -1,0 +1,2282 @@
+# Translation of Plugins - Freesoul Deactivate Plugins &#8211; Disable plugins on individual WordPress pages - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Freesoul Deactivate Plugins &#8211; Disable plugins on individual WordPress pages - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-08-16 07:58:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Freesoul Deactivate Plugins &#8211; Disable plugins on individual WordPress pages - Stable (latest release)\n"
+
+#: admin/eos-dp-helper.php:236
+msgid "FDP will disable no plugins in the backend because of:"
+msgstr "FDP no desactivará ningún plugin en el escritorio debido a:"
+
+#: admin/classes/class-fdp-custom-rows.php:126
+msgid "Delete this row"
+msgstr "Borrar esta fila"
+
+#: admin/classes/class-fdp-custom-rows.php:115
+msgid "Write here your notes for this row"
+msgstr "Escribe aquí tus notas para esta fila"
+
+#: admin/classes/abstracts/class-eos-fdp-plugins-manager-page.php:257
+msgid "Max limit reached"
+msgstr "Límite máximo alcanzado"
+
+#: admin/classes/abstracts/class-eos-fdp-plugins-manager-page.php:256
+msgid "You have reached the maximum number of rows available with the free version"
+msgstr "Has alcanzado el número máximo de filas disponibles con la versión gratuita"
+
+#: admin/fdp-admin.php:1259
+msgid "It seems the code of Freesoul Deactivate Plugins PRO was modified. Update Freesoul Deactivate Plugins PRO to the last official version, in another case it will not work properly."
+msgstr "Parece que el código de Freesoul Deactivate Plugins PRO fue modificado. Actualiza Freesoul Deactivate Plugins PRO a la última versión oficial, en otro caso no funcionará correctamente."
+
+#: admin/classes/class-fdp-one-place.php:122
+msgid "Use the star * to replace any groups of characters. E.g. %s"
+msgstr "Usa la estrella «*» para reemplazar cualquier grupo de caracteres. P.ej. %s"
+
+#: admin/classes/class-fdp-plugin-factory.php:120
+msgid "Open Code Editor."
+msgstr "Abrir el editor de código."
+
+#: admin/templates/pages/eos-dp-browser.php:14
+msgid "Use the star * to replace any groups of characters."
+msgstr "Usa un asterisco «*» para reemplazar cualquier grupo de caracteres."
+
+#: admin/templates/pages/eos-dp-browser.php:22
+msgid "If the pages are served by cache, the caching system must serve a different cache for the User Agents that you set here."
+msgstr "Si las páginas se sirven mediante el caché, el sistema de almacenamiento en caché debe servir un caché diferente para los agentes de usuario que estableces aquí."
+
+#: admin/templates/pages/eos-dp-browser.php:13
+msgid "Write the User Agents for which %s must be deactivated. Separate them by a return line."
+msgstr "Escribe los agentes de usuario para los cuales %s deben estar desactivado. Separarlos por una línea de retorno."
+
+#: admin/templates/pages/eos-dp-browser.php:27
+msgid "Disable plugins by User Agent."
+msgstr "Desactivar los plugins por agente de usuario."
+
+#: admin/templates/pages/eos-dp-browser.php:21
+msgid "If you use these settings for a specific plugin, then that plugin will be deactivated when the specified User Agents are matched."
+msgstr "Si usas estos ajustes para un plugin específico, ese plugin se desactivará cuando los agentes de usuario especificados coincidan."
+
+#: admin/templates/pages/eos-dp-browser.php:20
+msgid "Click on the pencil to set the User Agents."
+msgstr "Haz clic en el lápiz para establecer los agentes de usuario."
+
+#: admin/eos-dp-helper.php:345
+msgid "Browser"
+msgstr "Navegador"
+
+#: admin/eos-dp-helper.php:345
+msgid "Deactivate by User Agent"
+msgstr "Desactivar por agente de usuario"
+
+#: admin/templates/partials/nav-menu-items/menu-item-custom-urls.php:11
+msgid "Plugin by URL"
+msgstr "Plugin por URL"
+
+#: admin/templates/pages/eos-dp-one-place.php:23
+msgid "Keep active only where the URLs are matched."
+msgstr "Mantener activo solo donde coincidan las URLs."
+
+#: admin/templates/pages/eos-dp-one-place.php:18
+msgid "If you use these settings for a specific plugin, then that plugin will be deactivated everywhere but active when the specified URLs are matched."
+msgstr "Si usas estos ajustes para un plugin específico, ese plugin se desactivará en todas partes pero se activará cuando las URLs especificadas coincidan."
+
+#: admin/templates/pages/eos-dp-one-place.php:17
+msgid "Click on the pencil to set the URLs where you need a specific plugin."
+msgstr "Haz clic en el lápiz para configurar las URLs donde necesitas un plugin específico."
+
+#: admin/templates/pages/eos-dp-one-place.php:16
+msgid "Keep active specific plugins only where you need them."
+msgstr "Mantener activos plugins específicos solo donde los necesites."
+
+#: admin/fdp-admin.php:1185
+msgid "Uncheck it if you have issues on the FDP backend pages. "
+msgstr "Desmarca si tienes problemas en las páginas de administración de FDP. "
+
+#: admin/fdp-admin.php:1181
+msgid "Content Security Policy to exclude external scripts on the FDP backend pages."
+msgstr "Política de seguridad de contenido para excluir scripts externos en las páginas de administración de FDP."
+
+#: admin/eos-dp-helper.php:344 admin/fdp-admin.php:177
+msgid "By URL"
+msgstr "Por URL"
+
+#: admin/eos-dp-helper.php:344
+msgid "Activate only on specific URLs"
+msgstr "Activar solo en URLs específicas"
+
+#: admin/eos-dp-helper.php:226
+msgid "Go to your profile page."
+msgstr "Ve a tu página de perfil."
+
+#: admin/eos-dp-helper.php:225
+msgid "If you are loading jQuery from an external domain uncheck the FDP Content Security Policy from your profile page."
+msgstr "Si estás cargando jQuery desde un dominio externo, desmarca la política de seguridad de contenido de FDP en tu página de perfil."
+
+#: admin/eos-dp-helper.php:224
+msgid "The jQuery library is not loaded or it is loaded from an external domain."
+msgstr "La biblioteca jQuery no está cargada o se carga desde un dominio externo."
+
+#: admin/eos-dp-helper.php:177 admin/eos-dp-helper.php:367
+msgid "Upgrade"
+msgstr "Actualizar"
+
+#: admin/classes/class-fdp-one-place.php:126
+msgid "Save"
+msgstr "Guardar"
+
+#: admin/classes/class-fdp-one-place.php:121
+msgid "Write the only URLs where %s has to be active. Separate them by a return line."
+msgstr "Escribe las únicas URLs donde %s debe estar activo. Separarlos por una línea de retorno."
+
+#: admin/classes/class-fdp-frontend-singles.php:339
+msgid "Custom order"
+msgstr "Orden personalizado"
+
+#: admin/fdp-admin.php:193
+msgid "Plugin Conflicts"
+msgstr "Conflictos con plugins"
+
+#: admin/templates/partials/eos-dp-navigation.php:228
+msgid "Search plugin"
+msgstr "Buscar plugin"
+
+#: admin/fdp-admin.php:1137
+msgid "Try to update both Freesoul Deactivate Plugins and Freesoul Deactivate Plugins PRO to the last version."
+msgstr "Intenta actualizar Freesoul Deactivate Plugins y Freesoul Deactivate Plugins PRO a la última versión."
+
+#: admin/fdp-admin.php:1130
+msgid "Read the details, and then click on \"Dismiss\"."
+msgstr "Lee los detalles y luego haz clic en «Descartar»."
+
+#: admin/fdp-admin.php:1129
+msgid "If you see a warning that mentions a fatal error caused by FDP PRO, then click on \"Show details\"."
+msgstr "Si ves una advertencia que menciona un error fatal causado por FDP PRO, haz clic en «Mostrar detalles»."
+
+#: admin/fdp-admin.php:1128
+msgid "Show the warnings by going with your mouse over the notification icon in the FDP admin top navigation."
+msgstr "Muestra las advertencias colocando el ratón sobre el ícono de aviso en la navegación superior del administrador de FDP."
+
+#: admin/fdp-admin.php:1127
+msgid "If you still have the same issue, go to a working %sFDP settings page%s."
+msgstr "Si aún tienes el mismo problema, ve a una %spágina de ajustes de FDP%s  funcional."
+
+#: admin/fdp-admin.php:1126
+msgid "First, try to update both the free and PRO versions."
+msgstr "Primero, intenta actualizar tanto la versión gratuita como la PRO."
+
+#: admin/fdp-admin.php:1124
+msgid "Try to do the following steps:"
+msgstr "Intenta realizar los siguientes pasos:"
+
+#: admin/fdp-admin.php:1123
+msgid "It looks liike Freesoul Deactivate Plugins PRO triggered a fatal error, and it was disabled on the FDP settings pages."
+msgstr "Parece que Freesoul Deactivate Plugins PRO provocó un error fatal y se desactivo en las páginas de ajustes de FDP."
+
+#: admin/fdp-admin.php:192
+msgid "By Plugin"
+msgstr "Por plugin"
+
+#: integrations/actions-integrations/actions-google-analytics-for-wordpress.php:18
+msgid "Get floatbar"
+msgstr "Obtener barra flotante"
+
+#: integrations/actions-integrations/actions-google-analytics-for-wordpress.php:17
+msgid "Get addons"
+msgstr "Obtener extensiones"
+
+#: integrations/actions-integrations/actions-google-analytics-for-wordpress.php:16
+msgid "Get profile"
+msgstr "Obtener perfil"
+
+#: integrations/actions-integrations/actions-google-analytics-for-wordpress.php:15
+msgid "Get settings"
+msgstr "Obtener ajustes"
+
+#: integrations/actions-integrations/actions-google-analytics-for-wordpress.php:14
+msgid "Get notifications"
+msgstr "Obtener avisos"
+
+#: admin/classes/class-fdp-frontend-singles.php:338
+msgid "Menu order"
+msgstr "Orden del menú"
+
+#: admin/templates/partials/nav-menu-items/menu-item-archives.php:37
+msgid "Any %1$s (%2$s)"
+msgstr "Cualquier %1$s (%2$s)"
+
+#: admin/templates/partials/nav-menu-items/menu-item-archives.php:36
+#: admin/templates/partials/nav-menu-items/menu-item-term-archives.php:27
+msgid "%1$s (%2$s)"
+msgstr "%1$s (%2$s)"
+
+#: admin/templates/pages/eos-dp-smoke-tests.php:51
+msgid "Tests performed by %1$s%2$s%3$s"
+msgstr "Pruebas realizadas por %1$s%2$s%3$s"
+
+#: admin/fdp-admin.php:1278
+msgid "Refresh FDP Navigation"
+msgstr "Actualizar la navegación de FDP"
+
+#: admin/fdp-admin.php:220
+msgid "%1$s | %2$s"
+msgstr "%1$s | %2$s"
+
+#: admin/templates/partials/nav-menu-items/menu-item-backend.php:11
+msgid "Disabled on backend"
+msgstr "Desactivado en el escritorio"
+
+#: admin/classes/class-fdp-custom-rows.php:89
+msgid "Use the pattern %s to match the homepage URL with whatever query arguments"
+msgstr "Usa el patrón %s para hacer coincidir la URL de la página de inicio con cualquier argumento de consulta."
+
+#: inc/fdp-metaboxes.php:154
+msgid "Plugins deactivated based on the %1$sCustom URLs settings%2$s."
+msgstr "Plugins desactivados según los %1$sajustes de las URLs personalizadas%2$s."
+
+#: inc/fdp-metaboxes.php:152
+msgid "Plugins deactivated based on the %1$sSingles settings%2$s."
+msgstr "Plugins desactivados según los %1$sajustes individuales%2$s."
+
+#: inc/fdp-metaboxes.php:151
+msgid "Plugins deactivated based on the %1$sPost Types settings%2$s."
+msgstr "Plugins desactivados según los %1$sajustes de los tipos de contenido%2$s."
+
+#: admin/templates/partials/nav-menu-items/menu-item-archives.php:17
+msgid "Post Type Archives"
+msgstr "Archivos del tipo de contenido"
+
+#: admin/templates/partials/eos-dp-navigation.php:220
+msgid "Filter the theme."
+msgstr "Filtra el tema."
+
+#: admin/templates/partials/eos-dp-navigation.php:182
+msgid "Filter the following plugins:"
+msgstr "Filtra los siguientes plugins:"
+
+#: admin/templates/partials/eos-dp-navigation.php:175
+msgid "No filter."
+msgstr "Sin filtro."
+
+#: admin/templates/pages/eos-dp-smoke-tests.php:37
+#: admin/templates/pages/eos-dp-smoke-tests.php:40
+msgid "Test not found"
+msgstr "No se encontró la prueba"
+
+#: admin/templates/pages/eos-dp-addons.php:121
+msgid "Plugin Management"
+msgstr "Gestión del plugin"
+
+#: admin/templates/pages/eos-dp-addons.php:120
+msgid "Debugging"
+msgstr "Depurando"
+
+#: admin/templates/pages/eos-dp-addons.php:119
+msgid "Cleanup"
+msgstr "Limpieza"
+
+#: admin/templates/pages/eos-dp-addons.php:118
+msgid "Optimization"
+msgstr "Optimización"
+
+#: admin/fdp-admin.php:1236
+msgid "File wp-content/debug.log too big."
+msgstr "El archivo «wp-content/debug.log» es muy grande."
+
+#: admin/fdp-admin.php:1235
+msgid "The size of the file wp-content/debug.log is %s kB. Such a large file may degrade the performance every time WordPress writes into that file."
+msgstr "El tamaño del archivo «wp-content/debug.log» es %s kB. Un archivo tan grande puede degradar el rendimiento cada vez que WordPress escribe en ese archivo."
+
+#: admin/fdp-admin.php:1176
+msgid "Uncheck it to don't show the FDP metabox in the single page/post. "
+msgstr "Desmarca para no mostrar la caja meta FDP en la página/entrada individual. "
+
+#: admin/fdp-admin.php:1172
+msgid "Metabox in single page/post"
+msgstr "Caja meta en la página/entrada individual"
+
+#: integrations/actions-integrations/actions-woocommerce.php:18
+msgid "coupon message"
+msgstr "mensaje del cupón"
+
+#: admin/eos-dp-helper.php:338 admin/templates/pages/eos-dp-addons.php:115
+msgid "Add-ons"
+msgstr "Extensiones"
+
+#: admin/classes/class-fdp-custom-rows.php:119
+msgid "Disable exactly the plugins of this row/filter the plugins of this row and take into account also other settings."
+msgstr "Desactivar exactamente los plugins de esta fila/filtro los plugins de esta fila y ten en cuenta también otros ajustes."
+
+#: admin/templates/partials/eos-dp-navigation.php:116
+msgid "Potential conflict with %s."
+msgstr "Conflicto potencial con %s."
+
+#: admin/classes/class-fdp-site-health.php:37
+#: admin/templates/partials/eos-dp-navigation.php:115
+msgid "Link to support thread"
+msgstr "Enlace al hilo de soporte"
+
+#: admin/classes/class-fdp-site-health.php:37
+#: admin/templates/partials/eos-dp-navigation.php:115
+msgid "Another user had an issue with the plugin %1$s. Read this %2$ssupport thread%3$s for more details. It may help you to avoid the same issue on your website."
+msgstr "Otro usuario tuvo un problema con el plugin %1$s. Lee este %2$shilo de soporte%3$s para más detalles. Puede ayudarte a evitar el mismo problema en tu web."
+
+#: admin/templates/partials/eos-dp-navigation.php:106
+msgid "If you dismiss this notice and it still appears over again and again, it means the rewrite rules are being flushed again and again. This is not good for performance."
+msgstr "Si descartas este aviso y sigue apareciendo una y otra vez, significa que las reglas de reescritura se están eliminando una y otra vez. Esto no es bueno para el rendimiento."
+
+#: admin/templates/partials/eos-dp-navigation.php:106
+msgid "Issue with the rewrite rules."
+msgstr "Problema con las reglas de reescritura."
+
+#: admin/templates/partials/eos-dp-navigation.php:98
+msgid "Notifications"
+msgstr "Avisos"
+
+#: admin/templates/partials/eos-dp-before-main-nav.php:94
+msgid "Reset FDP Settings"
+msgstr "Restablecer los ajustes de FDP"
+
+#: admin/templates/pages/eos-dp-reset.php:36
+msgid "Settings Reset"
+msgstr "Restablecer ajustes"
+
+#: admin/templates/pages/eos-dp-reset.php:35
+msgid "All the settings will be totally cleared. Do it only if you are totally sure, and after making a full backup."
+msgstr "Todos los ajustes se vaciarán por completo. Hazlo solo si estás totalmente seguro y después de hacer una copia de seguridad completa."
+
+#: admin/templates/pages/eos-dp-reset.php:24
+msgid "Write %s to confirm that you want to reset the FDP settings."
+msgstr "Escribe %s para confirmar que deseas restablecer los ajustes de FDP."
+
+#: admin/templates/pages/eos-dp-reset.php:17
+msgid "I want to reset all the settings of FDP. I am aware that this choice is irreversible."
+msgstr "Quiero restablecer todos los ajustes de FDP. Soy consciente de que esta elección es irreversible."
+
+#: admin/templates/pages/eos-dp-experiments.php:60
+#: admin/templates/pages/eos-dp-reset.php:28
+#: admin/templates/pages/eos-dp-reset.php:38
+msgid "Reset all the settings"
+msgstr "Restablecer todos los ajustes"
+
+#: admin/templates/pages/eos-dp-experiments.php:58
+msgid "Save settings in the Filesystem"
+msgstr "Guardar los ajustes en el sistema de archivos"
+
+#: admin/templates/pages/eos-dp-experiments.php:57
+msgid "Important! Make always a full backup before to try any experiment."
+msgstr "¡Importante! Haz siempre una copia de seguridad completa antes de probar cualquier experimento."
+
+#: admin/templates/pages/eos-dp-experiments.php:54
+#: admin/templates/pages/eos-dp-reset.php:32
+msgid "Click on the button if you are really sure."
+msgstr "Haz clic en el botón si estás realmente seguro."
+
+#: admin/templates/pages/eos-dp-experiments.php:50
+msgid "Yes, I'm sure"
+msgstr "Sí, estoy seguro"
+
+#: admin/templates/pages/eos-dp-experiments.php:46
+msgid "Write %s to confirm that you want to move the Archives and Terms Archives settings from the database to the filesystem."
+msgstr "Escribe %s para confirmar que deseas mover los ajustes de archivos y archivos de términos de la base de datos al sistema de archivos."
+
+#: admin/templates/pages/eos-dp-experiments.php:39
+msgid "Write %s to confirm that you want to move the Archives and Terms Archives settings from the filesystem to the database."
+msgstr "Escribe %s para confirmar que deseas mover los ajustes de archivos y archivos de términos del sistema de archivos a la base de datos."
+
+#: admin/templates/pages/eos-dp-experiments.php:32
+msgid "Check this if you want to save the Archives and Terms Archives settings in the filesystem. Uncheck it if you want to save it in the database."
+msgstr "Marcar esto si deseas guardar los ajustes de archivos y archivos de términos en el sistema de archivos. Desmárcalo si deseas guardarlo en la base de datos."
+
+#: admin/fdp-admin.php:1167
+msgid "Show the FDP top level admin menu. If unchecked you will still see Plugins Manager under Plugins. "
+msgstr "Muestra el menú de administración de nivel superior de FDP. Si no está marcado, aún verás el gestor de plugins en plugins. "
+
+#: admin/fdp-admin.php:1159
+msgid "FDP Preferences"
+msgstr "Preferencias de FDP"
+
+#: admin/fdp-admin.php:990
+msgid "Yoast SEO"
+msgstr "Yoast SEO"
+
+#: admin/fdp-admin.php:164
+msgid "Post Requests"
+msgstr "Solicitudes de entradas"
+
+#: admin/fdp-admin.php:163
+msgid "Rest API"
+msgstr "Rest API"
+
+#: admin/fdp-admin.php:162
+msgid "Cron Jobs"
+msgstr "Cron Jobs"
+
+#: admin/fdp-admin.php:161
+msgid "Custom Ajax Actions"
+msgstr "Acciones personalizadas de Ajax"
+
+#: admin/eos-dp-helper.php:353
+msgid "Reset Settings"
+msgstr "Restablecer los ajustes"
+
+#: admin/eos-dp-helper.php:288
+msgid "Dismiss"
+msgstr "Descartar"
+
+#: admin/eos-dp-helper.php:286
+msgid "Copy"
+msgstr "Copiar"
+
+#: admin/eos-dp-helper.php:280
+msgid "Show details"
+msgstr "Mostrar detalles"
+
+#: admin/classes/class-fdp-terms-archives.php:130
+msgid "Filter by letter"
+msgstr "Filtrar por letra"
+
+#: admin/classes/class-fdp-frontend-singles.php:422
+msgid "Generate Critical CSS"
+msgstr "Generar CSS crítico"
+
+#: admin/classes/class-fdp-archives.php:108
+#: admin/classes/class-fdp-terms-archives.php:50
+msgid "Option Archives and Terms Archives too big."
+msgstr "La opción de archivos y archivos de términos son demasiado grandes."
+
+#: admin/classes/class-fdp-archives.php:107
+#: admin/classes/class-fdp-terms-archives.php:49 admin/eos-dp-helper.php:336
+msgid "Experiments"
+msgstr "Experimentos"
+
+#: admin/classes/class-fdp-archives.php:107
+#: admin/classes/class-fdp-terms-archives.php:49
+msgid "If you want to do it go to %1$sExperiments%2$s"
+msgstr "Si quieres hacerlo ve a %1$sexperimentos%2$s"
+
+#: admin/classes/class-fdp-archives.php:106
+#: admin/classes/class-fdp-terms-archives.php:48
+msgid "The option Archives and Terms Archives is becoming too big and they may worsening the performance. Maybe better you move this option from the database to the filesystem."
+msgstr "La opción de archivos y archivo de términos se está volviendo demasiado grande y pueden empeorar el rendimiento. Tal vez sea mejor que muevas esta opción de la base de datos al sistema de archivos."
+
+#: admin/templates/partials/nav-menu-items/menu-item-users.php:20
+msgid "unlogged Users"
+msgstr "Usuarios desconectados"
+
+#: admin/templates/partials/nav-menu-items/menu-item-users.php:15
+msgid "Logged Users"
+msgstr "Usuarios conectados"
+
+#: admin/templates/partials/eos-dp-navigation.php:36
+msgid "Without JavaScript FDP cannot work. Please, activate JavaScript in your browser if you want to use FDP!"
+msgstr "Sin JavaScript FDP no puede funcionar. ¡Por favor, activa JavaScript en tu navegador si quieres usar FDP!"
+
+#: admin/templates/partials/eos-dp-footer.php:87
+msgid "The %1$spage%2$s was checked simulating a logged user."
+msgstr "Se ha comprobado la %1$spage%2$s simulando un usuario conectado."
+
+#: admin/classes/class-fdp-terms-archives.php:86
+msgid "If you need to disable the same plugins on all archives, use the row All %s"
+msgstr "Si necesitas desactivar los mismos plugins en todos los archivos, usa toda las filas %s"
+
+#: admin/classes/class-fdp-license-manager-edd.php:487
+msgid "You do not have permission to install plugin updates"
+msgstr "No tienes permiso para instalar actualizaciones de plugins"
+
+#: admin/classes/class-fdp-license-manager-edd.php:258
+msgid "Update now."
+msgstr "Actualiza ahora."
+
+#: admin/classes/class-fdp-license-manager-edd.php:246
+msgid "%1$sView version %2$s details%3$s or %4$supdate now%5$s."
+msgstr "%1$sVer los detalles de la versión %2$s%3$s o %4$sactualizar ahora%5$s."
+
+#. translators: 1. opening anchor tag, do not translate 2. the new plugin
+#. version 3. closing anchor tag, do not translate.
+#: admin/classes/class-fdp-license-manager-edd.php:236
+msgid "%1$sView version %2$s details%3$s."
+msgstr "%1$sVer los detalles de la versión %2$s%3$s."
+
+#: admin/classes/class-fdp-license-manager-edd.php:230
+msgid "Contact your network administrator to install the update."
+msgstr "Contacta con tu administrador de red para instalar la actualización."
+
+#. translators: the plugin name.
+#: admin/classes/class-fdp-license-manager-edd.php:224
+msgid "There is a new version of %1$s available."
+msgstr "Hay una nueva versión de %1$s disponible."
+
+#: admin/templates/partials/nav-menu-items/menu-item-integration.php:20
+msgid "Post Actions Recorder"
+msgstr "Grabadora de acciones de la entrada"
+
+#: admin/templates/partials/nav-menu-items/menu-item-integration.php:15
+msgid "Ajax Actions Recorder"
+msgstr "Grabadora de acciones de Ajax"
+
+#: admin/fdp-admin.php:165
+#: admin/templates/partials/nav-menu-items/menu-item-custom-urls.php:18
+msgid "Translation URLs"
+msgstr "URLs de traducción"
+
+#: admin/templates/partials/eos-dp-before-main-nav.php:98
+msgid "Source Checker"
+msgstr "Comprobador de fuente"
+
+#: admin/fdp-admin.php:1118
+msgid "Please, update Freesoul Deactivate Plugins to the last version."
+msgstr "Intenta actualizar Freesoul Deactivate Plugins a la última versión."
+
+#: admin/fdp-admin.php:1134
+msgid "It looks a page added by Freesoul Deactivate Plugins PRO. Try to activate FDP PRO."
+msgstr "Parece una página añadida por Freesoul Deactivate Plugins PRO. Intenta activar FDP PRO."
+
+#: admin/fdp-admin.php:1116
+msgid "Sorry, you are not allowed to access this page."
+msgstr "Lo siento, no tienes permiso para acceder a esta página."
+
+#: admin/fdp-admin.php:1089
+msgid "Collapse menu"
+msgstr "Cerrar menú"
+
+#: admin/fdp-admin.php:1087
+msgid "Collapse Main menu"
+msgstr "Contraer el menú principal"
+
+#: admin/fdp-admin.php:1023
+msgid "Dashboard"
+msgstr "Escritorio"
+
+#: admin/fdp-admin.php:925
+msgid "Updates %s"
+msgstr "Actualizaciones %s"
+
+#: admin/fdp-admin.php:918
+msgid "Comments %s"
+msgstr "Comentarios %s"
+
+#: admin/fdp-admin.php:917
+msgid "%s Comment in moderation"
+msgid_plural "%s Comments in moderation"
+msgstr[0] "%s comentario en moderación"
+msgstr[1] "%s comentarios en moderación"
+
+#: admin/fdp-admin.php:911
+msgid "Plugins %s"
+msgstr "Plugins %s"
+
+#: admin/eos-dp-helper.php:730
+msgid "Naked Theme"
+msgstr "Tema vació"
+
+#: admin/classes/class-fdp-terms-archives.php:138
+msgid "All %s"
+msgstr "Todo %s"
+
+#: mu-plugins/eos-deactivate-plugins.php:2330
+msgid "User meta"
+msgstr "Meta del usuario"
+
+#: mu-plugins/eos-deactivate-plugins.php:2329
+msgid "Has bought something"
+msgstr "Has comprado algo"
+
+#: mu-plugins/eos-deactivate-plugins.php:2328
+msgid "Registered after"
+msgstr "Registrado después"
+
+#: mu-plugins/eos-deactivate-plugins.php:2327
+msgid "Registered before"
+msgstr "Registrado antes"
+
+#: mu-plugins/eos-deactivate-plugins.php:2326
+msgid "Language"
+msgstr "Idioma"
+
+#: mu-plugins/eos-deactivate-plugins.php:2323
+msgid "Capability"
+msgstr "Capacidad"
+
+#: admin/eos-dp-helper.php:1530
+msgid "Miscellaneus"
+msgstr "Varios"
+
+#: admin/templates/partials/eos-dp-footer.php:60
+#: admin/templates/partials/eos-dp-footer.php:61
+msgid "All tests"
+msgstr "Todas las pruebas"
+
+#: plugin-activation.php:23
+msgid "FDP Viewer"
+msgstr "Visor de FDP"
+
+#: admin/templates/partials/eos-dp-navigation.php:127
+msgid "Visit Site"
+msgstr "Visitar el sitio"
+
+#: admin/eos-dp-helper.php:313 admin/eos-dp-helper.php:316
+msgid "Plugins Manager"
+msgstr "Gestor de plugins"
+
+#: admin/eos-dp-helper.php:312
+msgid "Create new"
+msgstr "Crear nuevo"
+
+#: admin/classes/class-fdp-frontend-singles.php:415
+msgid "PRO version"
+msgstr "Versión PRO"
+
+#: admin/classes/class-fdp-frontend-singles.php:415
+msgid "With the %s you can have the auto-suggestion also on other pages."
+msgstr "Con el %s puedes tener la sugerencia automática también en otras páginas."
+
+#: admin/eos-dp-helper.php:1268
+msgid "All languages"
+msgstr "Todos los idiomas"
+
+#: admin/templates/partials/eos-dp-before-main-nav.php:84
+msgid "Hooks | Frontend"
+msgstr "Ganchos | Portada"
+
+#: admin/templates/partials/eos-dp-before-main-nav.php:83
+msgid "Hooks | Frontent"
+msgstr "Ganchos | Portada"
+
+#: admin/fdp-admin.php:182
+#: admin/templates/partials/eos-dp-before-main-nav.php:88
+#: admin/templates/partials/eos-dp-before-main-nav.php:89
+msgid "Hooks Recorder"
+msgstr "Grabadora de ganchos"
+
+#: admin/fdp-admin.php:176
+#: admin/templates/partials/nav-menu-items/menu-item-device.php:17
+msgid "Desktop"
+msgstr "Sobremesa"
+
+#: integrations/code-profiler.php:81
+msgid "Options saved"
+msgstr "Opciones guardadas"
+
+#: integrations/code-profiler.php:69
+msgid "Save settings"
+msgstr "Guardar los ajustes"
+
+#: integrations/code-profiler.php:57
+msgid "Activate/deactivate %s during the code profiling"
+msgstr "Activar/desactivar %s durante el análisis del código"
+
+#: integrations/code-profiler.php:46
+msgid "According to this page settings"
+msgstr "De acuerdo con los ajustes de esta página"
+
+#: integrations/code-profiler.php:45
+msgid "According to the FDP settings"
+msgstr "De acuerdo con los ajustes de FDP"
+
+#: integrations/code-profiler.php:44
+msgid "Plugins active during the code profiling"
+msgstr "Plugins activos durante el análisis del código"
+
+#: integrations/code-profiler.php:43
+msgid "Code Profiler - Plugins"
+msgstr "Plugins - Code Profiler"
+
+#: integrations/code-profiler.php:20
+msgid "Plugins"
+msgstr "Plugins"
+
+#: admin/templates/partials/eos-dp-before-main-nav.php:70
+#: integrations/code-profiler.php:70 integrations/code-profiler.php:78
+msgid "Code Profiler"
+msgstr "Code Profiler"
+
+#: admin/classes/class-fdp-archives.php:124
+msgid "If you don’t find here what you are looking for, maybe it’s a static page that behaves like an archive. In that case, have also a look in Singles => Pages"
+msgstr "Si no encuentras aquí lo que buscas, quizá sea una página estática que se comporta como un archivo. En ese caso, echa un vistazo también en Individuales => Páginas"
+
+#: admin/eos-dp-helper.php:851
+msgid "Upload attachment"
+msgstr "Subir un adjunto"
+
+#. Description of the plugin
+#: freesoul-deactivate-plugins.php
+msgid "Disable plugins on specific pages for performance improvement and support in problem-solving even when you have many plugins."
+msgstr "Desactiva plugins en páginas específicas para mejorar el rendimiento y ayudar a la resolución de problemas, incluso cuando tienes muchos plugins."
+
+#: admin/templates/partials/eos-dp-action-buttons.php:162
+msgid "Paste last copied row settings (shortcut: V)"
+msgstr "Pegar los ajustes de la última fila copiada (atajo: V)"
+
+#: admin/templates/partials/eos-dp-action-buttons.php:157
+msgid "Copy this row settings (shortcut: C)"
+msgstr "Copia los ajustes de esta fila (atajo: C)"
+
+#: admin/templates/partials/eos-dp-action-buttons.php:154
+msgid "Invert selection (shortcut: I)"
+msgstr "Invertir la selección (atajo: I)"
+
+#: admin/templates/partials/eos-dp-action-buttons.php:61
+msgid "Preview the page loading plugins according the settings you see now on this row and the selected theme (shortcut: P)"
+msgstr "Previsualiza la página de la carga de plugins de acuerdo con los ajustes que ves ahora en esta fila y el tema seleccionado (atajo: P)"
+
+#: admin/templates/pages/eos-dp-help.php:281
+msgid "Action"
+msgstr "Acción"
+
+#: admin/templates/pages/eos-dp-help.php:280
+msgid "Shortcut"
+msgstr "Atajo"
+
+#: admin/templates/pages/eos-dp-help.php:276
+msgid "Shortcuts."
+msgstr "Atajos."
+
+#: admin/templates/pages/eos-dp-help.php:269
+msgid "Filter related group of plugins"
+msgstr "Filtrar grupos de plugins relacionados"
+
+#: admin/templates/pages/eos-dp-help.php:253
+msgid "Show all plugins"
+msgstr "Mostrar todos los plugins"
+
+#: admin/templates/pages/eos-dp-help.php:249
+msgid "Scroll to top"
+msgstr "Scroll al inicio"
+
+#: admin/templates/pages/eos-dp-help.php:245
+msgid "Slide plugins to the left"
+msgstr "Deslizar los plugins a la izquierda"
+
+#: admin/templates/pages/eos-dp-help.php:241
+msgid "Slide plugins to the right"
+msgstr "Deslizar los plugins a la derecha"
+
+#: admin/templates/pages/eos-dp-help.php:237
+msgid "Enable/disable entire row"
+msgstr "Activar/desactivar la fila entera"
+
+#: admin/templates/pages/eos-dp-help.php:233
+msgid "Preview page"
+msgstr "Vista previa de la página"
+
+#: admin/templates/pages/eos-dp-help.php:225
+msgid "Paste row settings"
+msgstr "Pegar los ajustes de la fila"
+
+#: admin/templates/pages/eos-dp-help.php:221
+msgid "Copy row settings"
+msgstr "Copiar los ajustes de la fila"
+
+#: admin/templates/pages/eos-dp-help.php:217
+msgid "Open row bar"
+msgstr "Abrir la barra de fila"
+
+#: admin/classes/class-fdp-backend-singles.php:378
+msgid "Stop auto-suggestion"
+msgstr "Detener la sugerencia automática"
+
+#: admin/fdp-admin.php:158
+#: admin/templates/partials/eos-dp-before-main-nav.php:118
+msgid "Shortcuts"
+msgstr "Atajos"
+
+#: admin/fdp-admin.php:778
+msgid "If you have lost it, have a look at %1$syour orders%2$s."
+msgstr "Si la has perdido, echa un vistazo a %1$stus pedidos%2$s."
+
+#: admin/fdp-admin.php:777
+msgid "To get full access to the premium features and updates of Freesoul Deactivate Plugins PRO you should %1$sactivate the license%2$s."
+msgstr "Para obtener acceso completo a las características premium y las actualizaciones de Freesoul Deactivate Plugins PRO, debes %1$sactivar la licencia%2$s."
+
+#: admin/fdp-admin.php:775
+msgid "Check license settings"
+msgstr "Comprobar los ajustes de la licencia"
+
+#: admin/eos-dp-ajax.php:1479
+msgid "The access to premium support was expired on %s"
+msgstr "El acceso al soporte premium ha caducado el %s"
+
+#: admin/eos-dp-ajax.php:1479
+msgid "The access to premium support will expire on %s."
+msgstr "El acceso al soporte premium caducará el %s."
+
+#: admin/eos-dp-ajax.php:1478
+msgid "The access to updates was expired on %s"
+msgstr "El acceso a las actualizaciones ha caducado el %s"
+
+#: admin/eos-dp-ajax.php:1478
+msgid "This license will expire on %s."
+msgstr "Esta licencia caducará el %s."
+
+#: admin/eos-dp-ajax.php:1477
+msgid "License successfully verified"
+msgstr "Licencia verificada correctamente"
+
+#: admin/eos-dp-ajax.php:1466 admin/eos-dp-ajax.php:1477
+msgid "License not valid"
+msgstr "La licencia no es válida"
+
+#: admin/eos-dp-ajax.php:1460
+msgid "Email not valid"
+msgstr "El correo electrónico no es válido"
+
+#: admin/fdp-admin.php:806
+msgid "For having access to the plugin updates you would need to renew the license. %1$sRenew now%2$s"
+msgstr "Para tener acceso a las actualizaciones del plugin, deberás renovar la licencia. %1$sRenuévala ahora%2$s"
+
+#: admin/fdp-admin.php:805
+msgid "The license of Freesoul Deactivate Plugins PRO is expired."
+msgstr "La licencia de Freesoul Deactivate Plugins PRO ha caducado."
+
+#: admin/fdp-admin.php:774
+msgid "The license of Freesoul Deactivate Plugins PRO is not valid."
+msgstr "La licencia de Freesoul Deactivate Plugins PRO no es válida."
+
+#: admin/templates/partials/eos-dp-before-main-nav.php:37
+msgid "Plugin settings"
+msgstr "Ajustes del plugin"
+
+#: admin/classes/class-fdp-post-types.php:71
+#: admin/templates/partials/eos-dp-action-buttons.php:159
+msgid "It was not possible to copy the row settings"
+msgstr "No ha sido posible copiar los ajustes de la fila"
+
+#: admin/classes/class-fdp-post-types.php:70
+#: admin/templates/partials/eos-dp-action-buttons.php:158
+msgid "Row settings copied"
+msgstr "Ajustes de la fila copiados"
+
+#: admin/classes/class-fdp-post-types.php:63
+msgid "Go to singles settings of %s"
+msgstr "Ir a los ajustes individuales de %s"
+
+#: admin/templates/pages/eos-dp-help.php:67
+#: admin/templates/partials/eos-dp-before-main-nav.php:116
+msgid "Guided tour"
+msgstr "Recorrido guiado"
+
+#: admin/pointers/fdp-pointer.php:104
+msgid "After having disabled plugins on specific pages, assign the used plugins by post type to cover the rest of the pages."
+msgstr "Después de tener desactivados los plugins en páginas específicas, asigna los plugins usados por tipo de contenido para cubrir el resto de páginas."
+
+#: admin/pointers/fdp-pointer.php:103
+msgid "Continue on post types"
+msgstr "Continuar con los tipos de contenido"
+
+#: admin/pointers/fdp-pointer.php:93
+msgid "You will find the settings for the other kind of single pages under the menu item \"Singles\"."
+msgstr "Encontrarás los ajustes para el otro tipo de páginas individuales en el elemento de menú «Individuales»."
+
+#: admin/pointers/fdp-pointer.php:92
+msgid "Other kind of single pages"
+msgstr "Otro tipo de páginas individuales."
+
+#: admin/pointers/fdp-pointer.php:82
+msgid "If after checking the preview you don't see anything strange save the settings clicking on \"Save all chagnes\"."
+msgstr "Si después de comprobar la vista previa no ves nada extraño, guarda los ajustes haciendo clic en «Guardar todos los cambios»."
+
+#: admin/pointers/fdp-pointer.php:81
+msgid "Save after check"
+msgstr "Guardar después de comprobar"
+
+#: admin/pointers/fdp-pointer.php:71
+msgid "Click on the plus icon before the switch to open the action buttons panel.%1$sClick on the lens icon to see the preview of the page loading the plugins that remain active.%2$s%3$sDon't care about all the other icons, now focus only on what you need to get started."
+msgstr "Haz clic en el icono del signo «más» antes del interruptor para abrir el panel de botones de acción. %1$sHaz clic en el icono de la lupa para ver la vista previa de la página cargando los plugins que permanecen activos.%2$s%3$sNo te preocupes por todos los demás iconos, ahora concéntrate solo en lo que necesitas para los primeros pasos."
+
+#: admin/pointers/fdp-pointer.php:60
+msgid "Drag the slide control above to scroll the columns."
+msgstr "Arrastra el control deslizante de arriba para el scroll por las columnas."
+
+#: admin/pointers/fdp-pointer.php:59
+msgid "Plugin slider"
+msgstr "Carrusel del plugin"
+
+#: admin/pointers/fdp-pointer.php:49
+msgid "If you need to activate/deactivate all the plugins in a column, click on the plugin icon below the plugin name."
+msgstr "Si necesitas activar/desactivar todos los plugins en una columna, haz clic en el ícono del plugin debajo del nombre del plugin."
+
+#: admin/pointers/fdp-pointer.php:48
+msgid "How activate/deactivate entire columns"
+msgstr "Cómo activar/desactivar columnas enteras"
+
+#: admin/pointers/fdp-pointer.php:38
+msgid "If you need to activate/deactivate all the plugins in a row, click on the square next to the switch."
+msgstr "Si tienes que activar/desactivar todos los plugins de una fila, haz clic en el cuadrado al lado del interruptor."
+
+#: admin/pointers/fdp-pointer.php:37
+msgid "How activate/deactivate entire rows"
+msgstr "Cómo activar/desactivar filas enteras"
+
+#: admin/pointers/fdp-pointer.php:27
+msgid "Activate/deactivate the plugins by clicking on the cells."
+msgstr "Activa/desactiva los plugins haciendo clic en las celdas."
+
+#: admin/pointers/fdp-pointer.php:26
+msgid "Uncheck unused plugins"
+msgstr "Desmarca los plugins sin usar"
+
+#: admin/pointers/fdp-pointer.php:16
+msgid "Uncheck the plugins wich you don't need on specific pages. %1$sThe Post Types settings will override the inactive rows.%2$s%3$sIf many pages need the same set of active plugins, better disable the related rows by using the switches, and use the Post Types settings for those pages.%4$s"
+msgstr "Desmarca los plugins que no necesitas en páginas específicas. %1$sLos ajustes de los tipos de contenido anularán las filas inactivas.%2$s%3$sSi muchas páginas necesitan el mismo conjunto de plugins activos, es mejor desactivar las filas relacionadas usando los interruptores y usar los ajustes de tipos de contenido para esas páginas.%4$s"
+
+#: admin/pointers/fdp-pointer.php:15
+msgid "Getting started"
+msgstr "Primeros pasos"
+
+#: admin/eos-dp-helper.php:86
+msgid "Don't show again"
+msgstr "No volver a mostrar"
+
+#: admin/fdp-admin.php:183
+msgid "Plugin Settings"
+msgstr "Ajustes del plugin"
+
+#: admin/classes/class-fdp-post-types.php:130
+#: admin/templates/partials/eos-dp-post-types-legend.php:34
+msgid "Singles Settings will override the Post Types Settings"
+msgstr "Los ajustes individuales anularán los ajustes de tipos de contenido"
+
+#: admin/classes/class-fdp-post-types.php:118
+#: admin/templates/partials/eos-dp-post-types-legend.php:22
+msgid "Overrides inactive rows in the Singles Settings"
+msgstr "Anula las filas inactivas en los ajustes individuales"
+
+#: admin/templates/partials/eos-dp-navigation.php:232
+msgid "Plugin filters"
+msgstr "Filtros del plugin"
+
+#: admin/templates/partials/eos-dp-action-buttons.php:145
+msgid "Unload scripts of the remaining active plugins"
+msgstr "Descargar los scripts de los plugins activos restantes"
+
+#: admin/templates/partials/eos-dp-action-buttons.php:123
+msgid "Unload stylesheets of the remaining active plugins"
+msgstr "Descargar las hojas de estilo de los plugins activos restantes"
+
+#: admin/classes/class-fdp-terms-archives.php:229
+msgid "Go to Singles settings"
+msgstr "Ir a los ajustes individuales"
+
+#: admin/classes/class-fdp-frontend-singles.php:645
+msgid "Not active rows"
+msgstr "Filas no activas"
+
+#: admin/classes/class-fdp-frontend-singles.php:644
+msgid "Active rows"
+msgstr "Filas activas"
+
+#: admin/classes/class-fdp-frontend-singles.php:637
+msgid "Page Filters"
+msgstr "Filtros de página"
+
+#: admin/classes/class-fdp-frontend-singles.php:633
+msgid "Disable all rows"
+msgstr "Desactivar todas las filas"
+
+#: admin/classes/class-fdp-frontend-singles.php:630
+msgid "Activate all rows"
+msgstr "Activar todas las filas"
+
+#: admin/classes/class-fdp-frontend-singles.php:616
+msgid "The row settings will override the %1$sPost Types settings%2$s."
+msgstr "Los ajustes de la fila anularán los %1$sajustes de los tipos de contenido%2$s."
+
+#: admin/classes/class-fdp-frontend-singles.php:624
+msgid "The %1$sPost Types settings%2$s will override the row settings."
+msgstr "Los %1$sajustes de los tipos de contenido%2$s anularán los ajustes de la fila."
+
+#: admin/classes/class-fdp-backend-singles.php:310
+msgid "Suggest unused plugins"
+msgstr "Sugerir los plugins sin usar"
+
+#: admin/classes/class-fdp-archives.php:201
+#: admin/classes/class-fdp-terms-archives.php:261
+#: admin/classes/class-fdp-terms-archives.php:286
+msgid "Preview the page loading plugins according the settings you see now on this row and the selected theme"
+msgstr "Previsualiza la página de la carga de plugins de acuerdo con los ajustes que ves ahora en esta fila y el tema seleccionado"
+
+#: admin/classes/class-fdp-archives.php:196
+#: admin/classes/class-fdp-terms-archives.php:240
+#: admin/templates/partials/eos-dp-action-buttons.php:57
+msgid "Select a different Theme and then click on the lens icon to see the preview"
+msgstr "Selecciona un tema diferente y luego haz clic en el icono de lente para ver la vista previa"
+
+#: admin/eos-dp-ajax.php:1025
+msgid "Maybe the plugin %s is preventing seeing this page to non-logged users."
+msgstr "Quizá el plugin %s está impidiendo ver esta página a los usuarios que no están conectados."
+
+#: admin/classes/class-fdp-frontend-singles.php:377
+msgid "Show"
+msgstr "Mostrar"
+
+#: admin/classes/class-fdp-archives.php:184
+#: admin/classes/class-fdp-backend-singles.php:288
+#: admin/classes/class-fdp-frontend-singles.php:542
+#: admin/classes/class-fdp-post-types.php:50
+#: admin/classes/class-fdp-terms-archives.php:204
+#: admin/pointers/fdp-pointer.php:70
+msgid "Action buttons"
+msgstr "Botones de acción"
+
+#: admin/templates/partials/eos-dp-before-main-nav.php:64
+#: admin/templates/partials/eos-dp-before-main-nav.php:66
+msgid "General Bloat"
+msgstr "Exceso general"
+
+#: admin/fdp-admin.php:180
+msgid "General bloat"
+msgstr "Exceso general"
+
+#: admin/templates/partials/eos-dp-before-main-nav.php:34
+msgid "Main settings"
+msgstr "Ajustes principales"
+
+#: admin/classes/class-fdp-frontend-singles.php:654
+msgid "Plugins all disabled"
+msgstr "Todos los plugins desactivados"
+
+#: admin/classes/class-fdp-frontend-singles.php:653
+msgid "Plugins all active"
+msgstr "Todos los plugins activos"
+
+#: admin/classes/class-fdp-frontend-singles.php:651
+msgid "Top level page"
+msgstr "Página de nivel superior"
+
+#: admin/classes/class-fdp-frontend-singles.php:650
+msgid "Child page"
+msgstr "Página hija"
+
+#: admin/classes/class-fdp-frontend-singles.php:640
+msgid "Show all"
+msgstr "Mostrar todo"
+
+#: admin/pointers/fdp-pointer.php:22 admin/pointers/fdp-pointer.php:33
+#: admin/pointers/fdp-pointer.php:44 admin/pointers/fdp-pointer.php:55
+#: admin/pointers/fdp-pointer.php:66 admin/pointers/fdp-pointer.php:77
+#: admin/pointers/fdp-pointer.php:88 admin/pointers/fdp-pointer.php:99
+msgid "Next"
+msgstr "Siguiente"
+
+#: admin/classes/class-fdp-backend-singles.php:265
+msgid "Edit Single %s"
+msgstr "Editar %s individual"
+
+#: admin/eos-dp-helper.php:246
+msgid "Issue detected. Refresh this page. If you still see this message disable Freesoul Deactivate Plugins (only disable NOT DELETING it, or you will lose all the options), then activate it and refresh again this page."
+msgstr "Problema detectado. Actualiza esta página. Si sigues viendo este mensaje, desactiva Freesoul Deactivate Plugins (solo desactivarlo, NO BORRARLO, o perderás todas las opciones), después actívalo y actualiza de nuevo esta página."
+
+#: admin/templates/partials/eos-dp-footer.php:58
+msgid "Discard"
+msgstr "Descartar"
+
+#: admin/classes/class-fdp-archives.php:241
+#: admin/classes/class-fdp-backend-singles.php:315
+#: admin/classes/class-fdp-post-types.php:66
+#: admin/classes/class-fdp-terms-archives.php:312
+#: admin/templates/pages/eos-dp-help.php:229
+msgid "Invert selection"
+msgstr "Invertir la selección"
+
+#: admin/templates/pages/eos-dp-integration.php:117
+msgid "For developers."
+msgstr "Para desarrolladores."
+
+#: admin/classes/class-fdp-plugin-factory.php:56 admin/eos-dp-ajax.php:1115
+msgid "My custom code."
+msgstr "Mi código personalizado."
+
+#: admin/classes/class-fdp-plugin-factory.php:50 admin/eos-dp-ajax.php:1113
+msgid "My custom plugin"
+msgstr "Mi plugin personalizado"
+
+#: admin/fdp-admin.php:584
+msgid "Smoke tests"
+msgstr "Prueba básica"
+
+#: admin/fdp-admin.php:583
+msgid "Vulnerabilities"
+msgstr "Vulnerabilidades"
+
+#: admin/fdp-admin.php:189
+#: admin/templates/partials/eos-dp-before-main-nav.php:108
+msgid "Testing Settings"
+msgstr "Ajustes de la prueba"
+
+#: admin/fdp-admin.php:186
+msgid "Role Manager"
+msgstr "Gestor de perfil"
+
+#: admin/fdp-admin.php:181
+msgid "Settings Import/Export"
+msgstr "Ajustes de importar/exportar"
+
+#: admin/fdp-admin.php:179
+msgid "Bulk Actions"
+msgstr "Acciones en lote"
+
+#: admin/fdp-admin.php:213
+msgid "Assets | %s"
+msgstr "Recursos | %s"
+
+#: admin/fdp-admin.php:154
+msgid "Styles"
+msgstr "Estilos"
+
+#: admin/fdp-admin.php:153
+msgid "Scripts"
+msgstr "Scripts"
+
+#: admin/templates/partials/eos-dp-before-main-nav.php:58
+#: admin/templates/partials/eos-dp-before-main-nav.php:60
+msgid "CSS/JS"
+msgstr "CSS/JS"
+
+#: admin/templates/pages/eos-dp-mobile.php:22
+msgid "Mobile version."
+msgstr "Versión móvil."
+
+#: admin/templates/pages/eos-dp-search.php:13
+msgid "Search results page."
+msgstr "Página de resultados de búsqueda."
+
+#: admin/templates/partials/eos-dp-action-buttons.php:101
+msgid "Show the hooks loading plugins according the settings you see now on this row"
+msgstr "Muestra los ganchos que cargan plugins de acuerdo con los ajustes que ves ahora en esta fila"
+
+#: admin/fdp-admin-base.php:17
+msgid "Translate"
+msgstr "Traducir"
+
+#: admin/eos-dp-ajax.php:1213
+msgid "Something went wrong during the installation of %s"
+msgstr "Algo ha ido mal durante la instalación de %s"
+
+#: admin/eos-dp-ajax.php:1211
+msgid "Installed %s"
+msgstr "%s instalado"
+
+#: admin/templates/pages/eos-dp-favorite-plugins.php:129
+msgid "Upload list"
+msgstr "Subir la lista"
+
+#: admin/templates/pages/eos-dp-favorite-plugins.php:89
+msgid "Add to list"
+msgstr "Añadir a la lista"
+
+#: admin/templates/pages/eos-dp-favorite-plugins.php:72
+msgid "Activate the plugins"
+msgstr "Activar los plugins"
+
+#: admin/templates/pages/eos-dp-favorite-plugins.php:69
+msgid "Plugins installed from the list:"
+msgstr "Plugins instalados de la lista:"
+
+#: admin/templates/pages/eos-dp-favorite-plugins.php:67
+msgid "Installing plugins from the list..."
+msgstr "Instalando los plugins de la lista..."
+
+#: admin/templates/pages/eos-dp-favorite-plugins.php:63
+msgid "Import list"
+msgstr "Importar la lista"
+
+#: admin/templates/pages/eos-dp-favorite-plugins.php:62
+msgid "Upload a list of plugins created by FDP."
+msgstr "Subir una lista de plugins creados por FDP."
+
+#: admin/templates/pages/eos-dp-favorite-plugins.php:55
+msgid "Add plugins to the list"
+msgstr "Anadir los plugins a la lista"
+
+#: admin/templates/pages/eos-dp-favorite-plugins.php:56
+msgid "Export the list"
+msgstr "Exportar la lista"
+
+#: admin/templates/pages/eos-dp-favorite-plugins.php:39
+msgid "Import"
+msgstr "Importar"
+
+#: admin/templates/pages/eos-dp-favorite-plugins.php:37
+msgid "Export"
+msgstr "Exportar"
+
+#: admin/eos-dp-helper.php:352
+#: admin/templates/partials/eos-dp-before-main-nav.php:96
+msgid "Favorite plugins"
+msgstr "Plugins favoritos"
+
+#: admin/fdp-admin.php:171
+msgid "Favorite Plugins"
+msgstr "Plugins favoritos"
+
+#: plugin-activation.php:12
+msgid "FDP Manager"
+msgstr "Gestor de FDP"
+
+#: admin/eos-dp-ajax.php:1191
+msgid "Something went wrong."
+msgstr "Algo salió mal."
+
+#: admin/eos-dp-ajax.php:1159
+msgid "Too many custom plugins"
+msgstr "Demasiados plugins personalizados"
+
+#: admin/eos-dp-ajax.php:1108
+msgid "No writing rights"
+msgstr "No hay derechos de escritura"
+
+#: admin/eos-dp-helper.php:1562
+msgid "Users"
+msgstr "Usuarios"
+
+#: admin/templates/pages/eos-dp-help.php:30
+#: admin/templates/partials/eos-dp-before-main-nav.php:121
+msgid "Premium Support"
+msgstr "Soporte premium"
+
+#: admin/fdp-admin.php:185
+#: admin/templates/partials/eos-dp-before-main-nav.php:109
+msgid "Reports"
+msgstr "Informes"
+
+#: admin/templates/partials/eos-dp-before-main-nav.php:93
+msgid "Create custom plugin"
+msgstr "Crear un plugin personalizado"
+
+#: admin/templates/partials/eos-dp-before-main-nav.php:81
+msgid "Bulk actions"
+msgstr "Acciones en lote"
+
+#: admin/templates/partials/eos-dp-before-main-nav.php:79
+msgid "Import/Export"
+msgstr "Importar/exportar"
+
+#: admin/eos-dp-helper.php:317
+#: admin/templates/partials/eos-dp-before-main-nav.php:76
+msgid "Tools"
+msgstr "Herramientas"
+
+#: admin/eos-dp-helper.php:351
+#: admin/templates/partials/eos-dp-before-main-nav.php:40
+msgid "Roles Manager"
+msgstr "Gestor de perfiles"
+
+#: admin/fdp-admin.php:184
+msgid "Events"
+msgstr "Eventos"
+
+#: admin/templates/partials/eos-dp-before-main-nav.php:31
+msgid "Plugins Deactivation"
+msgstr "Desactivación de plugins"
+
+#: admin/templates/partials/eos-dp-before-main-nav.php:31
+msgid "Disable plugins"
+msgstr "Desactivar plugins"
+
+#: admin/classes/class-fdp-plugin-factory.php:124
+#: admin/templates/pages/eos-dp-favorite-plugins.php:76
+msgid "Something went wrong!"
+msgstr "¡Algo ha ido mal!"
+
+#: admin/classes/class-fdp-plugin-factory.php:121
+msgid "Activate your new plugin."
+msgstr "Activa tu nuevo plugin."
+
+#: admin/classes/class-fdp-plugin-factory.php:118
+msgid "Plugin created successfully!"
+msgstr "¡Plugin creado correctamente!"
+
+#: admin/classes/class-fdp-plugin-factory.php:116
+msgid "You will need to activate the new plugin as you do for other plugins."
+msgstr "Necesitas activar el nuevo plugin como lo haces con los otros plugins."
+
+#: admin/classes/class-fdp-plugin-factory.php:115
+msgid "Pushing the button FDP will create an empty new plugin for your custom code."
+msgstr "Al presionar el botón de FDP, se creará un nuevo plugin vacío para tu código personalizado."
+
+#: admin/classes/class-fdp-plugin-factory.php:114
+msgid "Create plugin"
+msgstr "Crear un plugin"
+
+#: admin/classes/class-fdp-plugin-factory.php:55
+msgid "Plugin description"
+msgstr "Descripción del plugin"
+
+#: admin/classes/class-fdp-plugin-factory.php:53
+msgid "Author URI"
+msgstr "URI del autor"
+
+#: admin/classes/class-fdp-plugin-factory.php:51
+msgid "Plugin author"
+msgstr "Autor del plugin"
+
+#: admin/classes/class-fdp-plugin-factory.php:48
+msgid "Create custom plugin."
+msgstr "Crea un plugin personalizado."
+
+#: admin/classes/class-fdp-plugin-factory.php:46
+msgid "It looks you have no rights to write in the plugins folder. It will not be possible to create any plugin until the plugins folder is writable."
+msgstr "Parece que no tienes permisos para escribir en la carpeta de plugins. No será posible crear ningún plugin hasta que se pueda escribir en la carpeta de plugins."
+
+#: admin/classes/class-fdp-one-column-page.php:88
+msgid "Disable All"
+msgstr "Desactivar todo"
+
+#: admin/classes/class-fdp-one-column-page.php:87
+msgid "Enable All"
+msgstr "Activar todo"
+
+#: admin/classes/class-fdp-frontend-singles.php:661
+msgid "WooCommerce pages"
+msgstr "Páginas de WooCommerce"
+
+#: admin/templates/pages/eos-dp-roles-manager.php:151
+msgid "If you want to check what other users see in the backend, try the plugin %s"
+msgstr "Si quieres comprobar lo que otros usuarios ven en el escritorio, prueba el plugin %s"
+
+#: admin/templates/pages/eos-dp-roles-manager.php:138
+msgid "(Main Administrator)"
+msgstr "(Administrador principal)"
+
+#: admin/templates/pages/eos-dp-roles-manager.php:129
+msgid "(You)"
+msgstr "(Tú)"
+
+#: admin/templates/pages/eos-dp-roles-manager.php:127
+msgid "Switch to %s"
+msgstr "Cambiar a %s"
+
+#: admin/templates/pages/eos-dp-roles-manager.php:108
+msgid "Administrators"
+msgstr "Administradores"
+
+#: admin/templates/pages/eos-dp-roles-manager.php:81
+#: admin/templates/pages/eos-dp-roles-manager.php:116
+msgid "Visibility in the page of plugins"
+msgstr "Visibilidad en la página de los plugins"
+
+#: admin/templates/pages/eos-dp-roles-manager.php:75
+#: admin/templates/pages/eos-dp-roles-manager.php:110
+msgid "Single Post Settings"
+msgstr "Ajustes de las entradas individuales"
+
+#: admin/templates/pages/eos-dp-roles-manager.php:74
+#: admin/templates/pages/eos-dp-roles-manager.php:109
+msgid "FDP Settings"
+msgstr "Ajustes de FDP"
+
+#: admin/templates/pages/eos-dp-roles-manager.php:73
+#: mu-plugins/eos-deactivate-plugins.php:2322
+msgid "Role"
+msgstr "Perfil"
+
+#: admin/templates/pages/eos-dp-roles-manager.php:67
+msgid "Decide who can see Freesoul Deactivate Plugins."
+msgstr "Decide quién puede ver Freesoul Deactivate Plugins."
+
+#: admin/fdp-admin.php:169
+msgid "New Plugin"
+msgstr "Nuevo plugin"
+
+#: inc/fdp-metaboxes.php:166
+msgid "Preview the page loading plugins and the theme according the settings you see here and disable JavaScript esecution"
+msgstr "Previsualiza la página de la carga de plugins y el tema de acuerdo con los ajustes que ves aquí y desactiva la ejecución de JavaScript"
+
+#: inc/fdp-metaboxes.php:165
+msgid "Preview the page loading plugins according the settings you see here"
+msgstr "Previsualiza la página de la carga de plugins de acuerdo con los ajustes que ves aquí"
+
+#: admin/eos-dp-ajax.php:1021
+msgid "It was not possible to get the disabled plugins. Maybe this page redirects to another page or something went wrong."
+msgstr "No ha sido posible obtener los plugins desactivados. Quizás esta página redirige a otra página o algo salió mal."
+
+#: admin/templates/pages/eos-dp-help.php:137
+msgid "Tip"
+msgstr "Consejo"
+
+#: admin/templates/pages/eos-dp-help.php:136
+msgid "Issue"
+msgstr "problema"
+
+#: admin/templates/pages/eos-dp-help.php:115
+msgid "Download"
+msgstr "Descargar"
+
+#: admin/templates/pages/eos-dp-help.php:204
+msgid "Search on the support forum"
+msgstr "Buscar en el foro de soporte"
+
+#: admin/classes/class-fdp-custom-rows.php:123
+msgid "This URL covers the post ID %s. It was not possibe to manage it with the Singles settings."
+msgstr "Esta URL cubre el ID %s de la entrada. No ha sido posible gestionarlo con los ajustes individuales."
+
+#: admin/classes/class-fdp-archives.php:207
+#: admin/templates/partials/eos-dp-action-buttons.php:67
+msgid "Preview the page loading plugins according the settings you see now on this row and show the files that are called"
+msgstr "Previsualiza la página de la carga de plugins de acuerdo con los ajustes que ves ahora en esta fila y muestra los archivos que son llamados"
+
+#: admin/classes/class-fdp-frontend-singles.php:555
+#: admin/classes/class-fdp-frontend-singles.php:646
+msgid "Included in the navigation"
+msgstr "Incluido en la navegación"
+
+#: admin/classes/class-fdp-frontend-singles.php:453
+msgid "Draft"
+msgstr "Borrador"
+
+#: admin/classes/class-fdp-frontend-singles.php:452
+#: admin/classes/class-fdp-frontend-singles.php:647
+msgid "Private"
+msgstr "Privado"
+
+#: admin/templates/pages/eos-dp-integration.php:68
+msgid "Activate/deactivate all plugins for %s"
+msgstr "Activar/desactivar todos los plugins para %s"
+
+#: admin/templates/pages/eos-dp-integration.php:50
+msgid "Show action slugs"
+msgstr "Mostrar slugs de acción"
+
+#: admin/templates/pages/eos-dp-integration.php:48
+msgid "Show action descriptions"
+msgstr "Mostrar las descripciones de acción"
+
+#: admin/templates/pages/eos-dp-integration.php:43
+msgid "Uncheck the plugins you want to deactivate on specific actions fired by %s."
+msgstr "Desmarca los plugins que quieres desactivar en acciones específicas activadas por %s."
+
+#: admin/templates/pages/eos-dp-integration.php:31
+msgid "%s is not active"
+msgstr "%s no está activo"
+
+#: admin/templates/pages/eos-dp-integration.php:25
+msgid "No integration available for %s"
+msgstr "No hay integración disponible para %s"
+
+#: admin/templates/pages/eos-dp-smoke-tests.php:25
+msgid "Smoke Tests on the last plugin versions"
+msgstr "Prueba básica en las últimas versiones del plugin"
+
+#: admin/fdp-admin.php:191
+msgid "Options priorities"
+msgstr "Prioridades de opciones"
+
+#: admin/fdp-admin.php:157 admin/templates/pages/eos-dp-help.php:68
+#: admin/templates/pages/eos-dp-help.php:132
+#: admin/templates/partials/eos-dp-before-main-nav.php:117
+msgid "Common issues"
+msgstr "Problemas habituales"
+
+#: admin/eos-dp-helper.php:892
+msgid "Check if the plugins are really disabled according to the saved options."
+msgstr "Comprueba si los plugins están realmente desactivados de acuerdo con las opciones guardadas."
+
+#: integrations/actions-integrations/actions-wp-fastest-cache.php:15
+msgid "delete cache and minified"
+msgstr "borrar la caché y minimizar"
+
+#: integrations/actions-integrations/actions-wp-fastest-cache.php:14
+msgid "delete cache"
+msgstr "borrar la caché"
+
+#: integrations/actions-integrations/actions-woocommerce.php:25
+msgid "update shipping method"
+msgstr "actualizar el método de envío"
+
+#: integrations/actions-integrations/actions-woocommerce.php:24
+msgid "update order review"
+msgstr "actualizar la reseña del pedido"
+
+#: integrations/actions-integrations/actions-woocommerce.php:23
+msgid "get variation"
+msgstr "obtener variación"
+
+#: integrations/actions-integrations/actions-woocommerce.php:22
+msgid "get refreshed fragments"
+msgstr "obtener fragmentos renovados"
+
+#: integrations/actions-integrations/actions-woocommerce.php:21
+msgid "get customer location"
+msgstr "obtener la ubicación del cliente"
+
+#: integrations/actions-integrations/actions-woocommerce.php:20
+msgid "get cart totals"
+msgstr "obtener los totales del carrito"
+
+#: integrations/actions-integrations/actions-woocommerce.php:19
+msgid "checkout ajax refresh"
+msgstr "actualización Ajax del pago"
+
+#: integrations/actions-integrations/actions-woocommerce.php:17
+msgid "remove coupon"
+msgstr "eliminar el cupón"
+
+#: integrations/actions-integrations/actions-woocommerce.php:16
+msgid "apply coupon"
+msgstr "aplicar el cupón"
+
+#: integrations/actions-integrations/actions-woocommerce.php:15
+msgid "remove from cart"
+msgstr "eliminar del carrito"
+
+#: integrations/actions-integrations/actions-woocommerce.php:14
+msgid "add to cart"
+msgstr "añadir al carrito"
+
+#: integrations/actions-integrations/actions-all-in-one-wp-migration.php:19
+msgid "checking status"
+msgstr "comprobando el estado"
+
+#: integrations/actions-integrations/actions-all-in-one-wp-migration.php:18
+msgid "installation exporting"
+msgstr "exportación de instalación"
+
+#: integrations/actions-integrations/actions-all-in-one-wp-migration.php:16
+msgid "Be careful, you should disable the unwanted plugins both on the source before the exporting and on the destination installation"
+msgstr "Ten cuidado, debes desactivar los plugins no deseados tanto en el origen, antes de la exportación, como en la instalación de destino"
+
+#: integrations/actions-integrations/actions-all-in-one-wp-migration.php:15
+msgid "installation importing"
+msgstr "importación de instalación"
+
+#: admin/eos-dp-helper.php:852
+msgid "Query attachments"
+msgstr "Consulta adjuntos"
+
+#: admin/eos-dp-helper.php:850
+msgid "Nav menus insert auto-draft customize"
+msgstr "Los menús de navegación insertan el borrador automático personalizado"
+
+#: admin/eos-dp-helper.php:849
+msgid "Search available menu items customize"
+msgstr "Buscar los elementos de menú disponible personalizados"
+
+#: admin/eos-dp-helper.php:848
+msgid "Load available menu items customize"
+msgstr "Cargar elementos de menú disponible personalizados"
+
+#: admin/eos-dp-helper.php:847
+msgid "Dismiss autosave or lock customize"
+msgstr "Descartar autoguardado o bloquear personalizar"
+
+#: admin/eos-dp-helper.php:846
+msgid "Override changeset lock customize"
+msgstr "Anular el bloqueo del grupo de cambios personalizados"
+
+#: admin/eos-dp-helper.php:845
+msgid "Load themes customize"
+msgstr "Cargar temas personalizados"
+
+#: admin/eos-dp-helper.php:844
+msgid "Refresh nonces customize"
+msgstr "Actualizar nonces personalizados"
+
+#: admin/eos-dp-helper.php:843
+msgid "Trash customize"
+msgstr "Personalizar la papelera"
+
+#: admin/eos-dp-helper.php:842
+msgid "Save customize"
+msgstr "Guardar personalizar"
+
+#: admin/eos-dp-helper.php:841
+msgid "Remove custom header"
+msgstr "Eliminar la cabecera personalizada"
+
+#: admin/eos-dp-helper.php:840
+msgid "Add custom header"
+msgstr "Añadir una cabecera personalizada"
+
+#: admin/eos-dp-helper.php:839
+msgid "Crop custom header"
+msgstr "Recortar la cabecera personalizada"
+
+#: admin/eos-dp-helper.php:838
+msgid "Set background image"
+msgstr "Establecer la imagen de fondo"
+
+#: admin/eos-dp-helper.php:837
+msgid "Add custom background"
+msgstr "Añadir un fondo personalizado"
+
+#: admin/eos-dp-helper.php:318
+#: admin/templates/partials/eos-dp-before-main-nav.php:105
+msgid "Testing"
+msgstr "Probando"
+
+#: admin/eos-dp-helper.php:349 admin/eos-dp-helper.php:1554
+msgid "Actions"
+msgstr "Acciones"
+
+#: admin/eos-dp-helper.php:349
+msgid "Deactivate depending on third party plugin action"
+msgstr "Desactivar dependiendo de la acción del plugin de terceros"
+
+#: admin/eos-dp-helper.php:341
+msgid "Term Archives"
+msgstr "Archivos de términos"
+
+#: admin/eos-dp-helper.php:339
+msgid "Deactivate by post type"
+msgstr "Desactivar por tipo de contenido"
+
+#: admin/eos-dp-helper.php:172 admin/eos-dp-helper.php:176
+msgid "Support"
+msgstr "Dar soporte"
+
+#: admin/fdp-admin.php:358
+msgid "Set unused plugins"
+msgstr "Establecer los plugins sin usar"
+
+#: admin/fdp-admin.php:178
+msgid "User Agent"
+msgstr "Agente de usuario"
+
+#: admin/classes/class-fdp-frontend-singles.php:414
+msgid "Pressing the button above, FDP will suggest you the needed plugins. However, check the page preview with the lens icon %s before to save the options."
+msgstr "Al pulsar el botón de arriba, FDP te sugerirá los plugins necesarios. Sin embargo, comprueba la vista previa de la página con el ícono de lente %s antes para guardar las opciones."
+
+#: admin/classes/class-fdp-frontend-singles.php:413 admin/fdp-admin.php:285
+msgid "Suggest plugins"
+msgstr "Sugerir plugins"
+
+#: fdp-load.php:243
+msgid "Failed to create %s"
+msgstr "Ha fallado al crear %s"
+
+#: admin/eos-dp-helper.php:732
+msgid "Dummy HTML file"
+msgstr "Archivo HTML ficticio"
+
+#: admin/eos-dp-helper.php:729
+msgid "Empty Theme"
+msgstr "Tema vacío"
+
+#: admin/eos-dp-helper.php:247
+msgid "If you still see this message after disabling and reactivating Freesoul Deactivate Plugins and after refreshing this page, open a thread on the %1$sPlugin Support Forum%2$s"
+msgstr "Si aún ves este mensaje después de desactivar y reactivar los plugins de desactivación de Freesoul y después de actualizar esta página, abre un ticket en el %1$sForo de soporte del plugin%2$s"
+
+#: admin/eos-dp-helper.php:240
+msgid "Issue detected. It looks the file %s has been modified."
+msgstr "Problema detectado. Parece que el archivo %s ha sido modificado."
+
+#: admin/eos-dp-helper.php:232
+msgid "Very important file missing. First, refresh this page, if you still see this message, disable Freesoul Deactivate Plugins and activate it again. If nothing helps, copy the file %1$s and put it into the directory %2$s"
+msgstr "Falta un archivo muy importante. Primero, recarga esta página, si aún ves este mensaje, desactivar Freesoul Deactivate Plugins y activarlo nuevamente. Si nada ayuda, copia el archivo %1$s y colócalo en el directorio %2$s"
+
+#: mu-plugins/eos-deactivate-plugins.php:2324
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: admin/classes/class-fdp-archives.php:233
+#: admin/templates/partials/eos-dp-action-buttons.php:95
+msgid "Check the page with Google PageSpeed Insights loading plugins and the theme according the settings you see now on this row"
+msgstr "Consulta con la página de Google PageSpeed Insights los plugins y el tema cargados de acuerdo con los ajustes que ves ahora en esta fila"
+
+#: admin/classes/class-fdp-archives.php:213
+#: admin/classes/class-fdp-backend-singles.php:305
+#: admin/classes/class-fdp-terms-archives.php:309
+#: admin/templates/partials/eos-dp-action-buttons.php:73
+msgid "Preview the page loading plugins and the theme according the settings you see now on this row and disable JavaScript esecution"
+msgstr "Previsualiza la página de la carga de plugins y el tema de acuerdo con los ajustes que ves ahora en esta fila y desactiva la ejecución de JavaScript"
+
+#: admin/classes/class-fdp-backend-singles.php:299
+msgid "Preview the page loading plugins according the settings you see now on this row"
+msgstr "Previsualiza la página de la carga de plugins de acuerdo con los ajustes que ves ahora en esta fila"
+
+#: admin/classes/class-fdp-frontend-singles.php:428
+msgid "Unable to finish the tests to suggest the unused plugins. Probably the server is too busy."
+msgstr "No se han podido finalizar las pruebas para sugerir los plugins sin usar. Probablemente el servidor está demasiado ocupado."
+
+#: admin/classes/class-fdp-terms-archives.php:97
+msgid "Check Permalinks Structure"
+msgstr "Comprueba la estructura de los enlaces permanentes"
+
+#: admin/classes/class-fdp-terms-archives.php:94
+msgid "If you really want these permalink settings, you need %1$sthe custom URLs%2$s for the term archives."
+msgstr "Si realmente quieres estos ajustes de enlaces permanentes, necesitas %1$slas URL personalizadas%2$s para los archivos de términos."
+
+#: admin/classes/class-fdp-terms-archives.php:93
+msgid "The plugins control will probably not work for term archives."
+msgstr "El control de plugins probablemente no funcionará para los archivos de términos."
+
+#: admin/classes/class-fdp-terms-archives.php:92
+msgid "Issue detected. In the %1$spermalinks settings%2$s you have a full stop as base category, and you don't have %3$s in your custom permalink structure."
+msgstr "Problema detectado. En los %1$sajustes de los enlaces permanentes%2$s, tienes un punto final como categoría base y no tienes %3$s en tu estructura personalizada de los enlaces permanentes."
+
+#: admin/templates/partials/eos-dp-home-actions.php:33
+msgid "Check mobile usability loading plugins and the theme according the settings you see now on this row"
+msgstr "Comprueba los plugins de carga de usabilidad móvil y el tema de acuerdo con los ajustes que ves ahora en esta fila"
+
+#: admin/templates/partials/eos-dp-home-actions.php:19
+msgid "Check the TTFB loading plugins andd the theme according the settings you see now on this row (beta)"
+msgstr "Comprueba los plugins de carga de TTFB y el tema de acuerdo con los ajustes que ves ahora en esta fila (beta)"
+
+#: admin/templates/pages/eos-dp-addons.php:143
+msgid "Learn more"
+msgstr "Aprender más"
+
+#: admin/classes/class-fdp-frontend-singles.php:427
+msgid "It may take a couple of minutes, drink a coffee while we try to understand which plugins you need on this page"
+msgstr "Puede tardar un par de minutos, tomate un café mientras tratamos de entender qué plugins necesitas en esta página"
+
+#: admin/fdp-admin.php:1163
+msgid "Admin menu"
+msgstr "Menú de administración"
+
+#: admin/eos-dp-helper.php:348
+msgid "Deactivate in Administration Pages"
+msgstr "Desactivar en las páginas de administración"
+
+#: admin/eos-dp-helper.php:347
+msgid "Deactivate in Administration Pages by custom URLs"
+msgstr "Desactivar en las páginas de administración por URLs personalizadas"
+
+#: admin/classes/class-fdp-custom-rows.php:84
+msgid "It will work only for the FRONTEND"
+msgstr "Solo funcionará para la PORTADA"
+
+#: admin/classes/class-fdp-backend-urls.php:82
+msgid "You can use these options to disable plugins by URL query arguments. E.g. *?example-paramameter=true* will match URLS as %1$s/wp-admin?example-paramameter=true, %2$s/wp-admin/page-example/?example-paramameter=true..."
+msgstr "Puedes usar estas opciones para desactivar los plugins por argumentos de consulta de URL. Por ejemplo, *?example-paramameter-true* coincidirá con las URLS como %1$s/wp-admin?example-paramameter=true, %2$s/wp-admin/page-example/?example-paramameter=true..."
+
+#: admin/classes/class-fdp-backend-urls.php:81
+msgid "E.g. %1$s/wp-admin*example/ will match URLs as %2$s/wp-admin/an-example/, %3$s/wp-admin/another-example/..."
+msgstr "P.ej. %1$s/wp-admin*ejemplo/ coincidirá con las URLs como %2$s/wp-admin/un-ejemplo/, %3$s/wp-admin/otro-ejemplo/..."
+
+#: admin/classes/class-fdp-backend-urls.php:78
+msgid "It will work only for the BACKEND"
+msgstr "Solo funcionará para el ESCRITORIO"
+
+#: admin/classes/class-fdp-backend-urls.php:77
+msgid "Uncheck the plugins you want to disable in the backend depending on the URL"
+msgstr "Desmarca los plugins que quieres desactivar en el escritorio dependiendo de la URL"
+
+#: admin/fdp-admin.php:160
+#: admin/templates/partials/nav-menu-items/menu-item-backend.php:12
+msgid "Backend Singles"
+msgstr "Administración de individuales"
+
+#: admin/eos-dp-helper.php:348 admin/eos-dp-helper.php:1546
+msgid "Backend"
+msgstr "Administración"
+
+#: admin/eos-dp-helper.php:347 admin/fdp-admin.php:159
+#: admin/templates/partials/nav-menu-items/menu-item-backend.php:13
+#: admin/templates/partials/nav-menu-items/menu-item-custom-urls.php:13
+msgid "Backend URLs"
+msgstr "URLs de administración"
+
+#: admin/templates/partials/nav-menu-items/menu-item-custom-urls.php:12
+msgid "Frontend URLs"
+msgstr "Urls de la portada"
+
+#. Plugin URI of the plugin
+#: freesoul-deactivate-plugins.php
+msgid "https://freesoul-deactivate-plugins.com/"
+msgstr "https://freesoul-deactivate-plugins.com/"
+
+#: admin/classes/class-fdp-frontend-singles.php:182
+msgid "posts"
+msgstr "entradas"
+
+#: admin/classes/class-fdp-license-manager-edd.php:487
+msgid "Error"
+msgstr "Error"
+
+#: admin/eos-dp-helper.php:712
+msgid "Go to the last plugin test results"
+msgstr "Ir a los últimos resultados de las pruebas del plugin"
+
+#: admin/templates/pages/eos-dp-smoke-tests.php:52
+msgid "Go to top"
+msgstr "Ir arriba"
+
+#: admin/classes/class-fdp-plugin-factory.php:49
+msgid "Plugin name"
+msgstr "Nombre del plugin"
+
+#: admin/fdp-admin.php:188
+#: admin/templates/partials/eos-dp-before-main-nav.php:107
+msgid "Plugin Tests"
+msgstr "Pruebas del plugin"
+
+#: admin/eos-dp-helper.php:725
+msgid "Current Theme"
+msgstr "Tema actual"
+
+#: admin/eos-dp-helper.php:693
+msgid "More info at %s"
+msgstr "Más información en %s"
+
+#: admin/eos-dp-helper.php:681
+msgid "By %s"
+msgstr "Por %s"
+
+#: admin/eos-dp-helper.php:663
+msgid "Description"
+msgstr "Descripción"
+
+#: admin/eos-dp-helper.php:346
+msgid "Deactivate by URL"
+msgstr "Desactivar por URL"
+
+#: admin/eos-dp-helper.php:350 admin/fdp-admin.php:172
+#: admin/templates/partials/eos-dp-before-main-nav.php:43
+msgid "Firing Order"
+msgstr "Orden de ejecución"
+
+#: admin/eos-dp-helper.php:346 admin/eos-dp-helper.php:1538
+#: admin/fdp-admin.php:190
+msgid "Custom URLs"
+msgstr "URL personalizadas"
+
+#: admin/classes/class-fdp-frontend-singles.php:178
+#: admin/classes/class-fdp-frontend-singles.php:643 admin/fdp-admin.php:217
+#: admin/templates/partials/nav-menu-items/menu-item-archives.php:13
+#: admin/templates/partials/nav-menu-items/menu-item-singles.php:14
+msgid "Homepage"
+msgstr "Página de inicio"
+
+#: admin/templates/partials/eos-dp-footer.php:76
+msgid "Click %1$shere%2$s if you want to translate Freesoul Deactivate Plugins in your language."
+msgstr "Haz clic %1$saquí%2$s si quieres traducir Freesoul Deactivate Plugins en tu idioma."
+
+#: admin/templates/partials/eos-dp-action-buttons.php:47
+msgid "Edit page"
+msgstr "Editar la página"
+
+#: admin/classes/class-fdp-frontend-singles.php:176
+#: admin/templates/partials/nav-menu-items/menu-item-singles.php:50
+msgid "Relevant pages"
+msgstr "Páginas relevantes"
+
+#: admin/classes/abstracts/class-eos-fdp-matrix-page.php:103
+#: admin/templates/pages/eos-dp-firing-order.php:51
+#: admin/templates/partials/eos-dp-table-head.php:50
+msgid "View details of %s"
+msgstr "Ver los detalles de %s"
+
+#: admin/templates/pages/eos-dp-firing-order.php:30
+msgid "Remember that every time you activate a new plugin, you may need to change and save again the firing order according with your needs."
+msgstr "Recuerda que cada vez que actives un nuevo plugin, es posible que tengas que cambiar y guardar de nuevo el orden de ejecución de acuerdo a tus necesidades."
+
+#: admin/templates/pages/eos-dp-firing-order.php:29
+msgid "Plugins should use action hooks to run code in the desired order. Change the firing order if you really don't have other cleaner solutions."
+msgstr "Los plugins deben usar ganchos de acción para ejecutar el código en el orden deseado. Cambia el orden de ejecución si realmente no tienes otras soluciones más limpias."
+
+#: admin/templates/pages/eos-dp-firing-order.php:28
+msgid "You can change the plugins firing order dragging and moving the plugins."
+msgstr "Puedes cambiar el orden de ejecución de los plugins arrastrando y moviendo los plugins."
+
+#: admin/classes/class-fdp-custom-rows.php:88
+msgid "You can use these options to disable plugins by URL query arguments. E.g. *?example-paramameter=true* will match URLS as %1$s?example-paramameter=true, %2$s/page-example/?example-paramameter=true..."
+msgstr "Puedes usar estas opciones para desactivar los plugins por argumentos de consulta de URL. Por ejemplo, *?example-paramameter-true* coincidirá con las URL como %1$s?example-paramameter-true, %2$s/page-example/?example-paramameter-true..."
+
+#: admin/classes/class-fdp-custom-rows.php:87
+msgid "E.g. %1$s*example/ will match URLs as %2$s/an-example/, %3$s/another-example/..."
+msgstr "P.ej. %1$s*example/ coincidirá con las URLs como %2$s/an-example/, %3$s/another-example/..."
+
+#: admin/classes/class-fdp-backend-urls.php:80
+#: admin/classes/class-fdp-custom-rows.php:86
+msgid "Use the star \"*\" as replacement of groups of characters."
+msgstr "Usa un asterisco « * » como reemplazo de grupos de caracteres."
+
+#: admin/classes/class-fdp-custom-rows.php:162
+msgid "Add URL"
+msgstr "Añadir URL"
+
+#: admin/classes/class-fdp-custom-rows.php:125
+msgid "Delete"
+msgstr "Borrar"
+
+#: admin/classes/class-fdp-custom-rows.php:121
+msgid "Write here the URL"
+msgstr "Escribe aquí la URL"
+
+#: admin/classes/class-fdp-custom-rows.php:117
+msgid "Move it up to assign higher priority"
+msgstr "Muévelo hacia arriba para asignar mayor prioridad"
+
+#: admin/classes/class-fdp-custom-rows.php:116
+msgid "Activate/deactivate all plugins for this URL"
+msgstr "Activar/desactivar todos los plugins para esta URL"
+
+#: admin/classes/class-fdp-custom-rows.php:83
+msgid "Uncheck the plugins you want to disable depending on the URL"
+msgstr "Desmarca los plugins que quieres desactivar dependiendo de la URL"
+
+#: admin/classes/abstracts/class-eos-fdp-plugins-manager-page.php:267
+#: admin/classes/class-fdp-archives.php:251
+#: admin/classes/class-fdp-one-place.php:125
+#: admin/classes/class-fdp-terms-archives.php:322 admin/eos-dp-helper.php:287
+#: admin/pointers/fdp-pointer.php:110 admin/pointers/fdp-pointer.php:162
+#: admin/templates/pages/eos-dp-favorite-plugins.php:88
+#: admin/templates/partials/eos-dp-action-buttons.php:168
+#: admin/templates/partials/eos-dp-footer.php:59
+#: admin/templates/partials/eos-dp-footer.php:85
+msgid "Close"
+msgstr "Cerrar"
+
+#: admin/classes/class-fdp-archives.php:247
+#: admin/classes/class-fdp-backend-singles.php:321
+#: admin/classes/class-fdp-custom-rows.php:131
+#: admin/classes/class-fdp-post-types.php:74
+#: admin/classes/class-fdp-terms-archives.php:318
+#: admin/templates/pages/eos-dp-integration.php:80
+msgid "Paste last copied row settings"
+msgstr "Pegar los ajustes de la última fila copiada"
+
+#: admin/classes/class-fdp-archives.php:244
+#: admin/classes/class-fdp-backend-singles.php:318
+#: admin/classes/class-fdp-custom-rows.php:129
+#: admin/classes/class-fdp-post-types.php:69
+#: admin/classes/class-fdp-terms-archives.php:315
+#: admin/templates/pages/eos-dp-integration.php:79
+msgid "Copy this row settings"
+msgstr "Copiar los ajustes de esta fila"
+
+#: inc/fdp-metaboxes.php:163
+msgid "Select a different Theme ONLY FOR PREVIEW"
+msgstr "Selecciona un tema diferente SOLO PARA LA VISTA PREVIA"
+
+#: admin/classes/class-fdp-backend-singles.php:295 admin/eos-dp-helper.php:884
+msgid "View page loading plugins according the saved options"
+msgstr "Ver la página de la carga de plugins de acuerdo con las opciones guardadas"
+
+#: admin/classes/class-fdp-one-column-page.php:160
+#: admin/classes/class-fdp-one-place.php:90
+msgid "View details"
+msgstr "Ver los detalles"
+
+#: admin/fdp-admin.php:226
+msgid "Plugin Details"
+msgstr "Detalles del plugin"
+
+#: admin/eos-dp-helper.php:337 admin/fdp-admin.php:173
+#: admin/templates/partials/eos-dp-before-main-nav.php:113
+#: admin/templates/partials/eos-dp-before-main-nav.php:114
+msgid "Help"
+msgstr "Ayuda"
+
+#: admin/templates/pages/eos-dp-help.php:33
+#: admin/templates/partials/eos-dp-before-main-nav.php:120
+msgid "Support Forum"
+msgstr "Foro de soporte"
+
+#: admin/eos-dp-helper.php:169 admin/fdp-admin.php:170
+#: admin/templates/pages/eos-dp-help.php:70
+#: admin/templates/partials/eos-dp-before-main-nav.php:119
+msgid "Documentation"
+msgstr "Documentación"
+
+#: admin/eos-dp-helper.php:343
+msgid "Deactivate on search resutls page"
+msgstr "Desactivar en la página de resultados de búsqueda"
+
+#: admin/classes/class-fdp-frontend-singles.php:383
+#: admin/classes/class-fdp-frontend-singles.php:385 admin/eos-dp-helper.php:343
+#: admin/fdp-admin.php:187 admin/templates/pages/eos-dp-help.php:205
+#: admin/templates/partials/nav-menu-items/menu-item-miscellaneus.php:11
+msgid "Search"
+msgstr "Buscar"
+
+#: admin/templates/pages/eos-dp-mobile.php:17
+msgid "Be sure you have a server cache plugin that distinguishes between mobile and desktop."
+msgstr "Asegúrate de que tienes un plugin de caché de servidor que distingue entre móviles y escritorio."
+
+#: admin/templates/pages/eos-dp-mobile.php:16
+msgid "The plugins you uncheck here will always be disabled on mobile devices, no matter which pages and what you set on other options"
+msgstr "Los plugins que desmarques aquí siempre se desactivarán en dispositivos móviles, sin importar qué páginas y qué establezcas en otras opciones"
+
+#: admin/classes/class-fdp-frontend-singles.php:357
+msgid "Mobile devices"
+msgstr "Dispositivos móviles"
+
+#: admin/classes/class-fdp-frontend-singles.php:356
+msgid "Desktop devices"
+msgstr "Dispositivos de escritorio"
+
+#: admin/classes/class-fdp-frontend-singles.php:355
+msgid "All devices"
+msgstr "Todos los dispositivos"
+
+#: admin/classes/class-fdp-frontend-singles.php:353
+#: admin/eos-dp-helper.php:1522
+msgid "Device"
+msgstr "Dispositivo"
+
+#: admin/classes/class-fdp-frontend-singles.php:658 admin/eos-dp-helper.php:342
+#: admin/fdp-admin.php:175
+#: admin/templates/partials/nav-menu-items/menu-item-device.php:11
+msgid "Mobile"
+msgstr "Móvil"
+
+#: admin/eos-dp-helper.php:342
+msgid "Deactivate on mobile devices"
+msgstr "Desactivar en dispositivos móviles"
+
+#. Author URI of the plugin
+#: freesoul-deactivate-plugins.php
+msgid "https://josemortellaro.com"
+msgstr "https://josemortellaro.com"
+
+#. Author of the plugin
+#: freesoul-deactivate-plugins.php
+msgid "Jose Mortellaro"
+msgstr "José Mortellaro"
+
+#: fdp-load.php:112
+msgid "Back to plugins"
+msgstr "Volver a los plugins"
+
+#: fdp-load.php:112
+msgid "Freesoul Deactivate Plugins can't be activated networkwide, but only on each single site. %1$s%2$s%3$s"
+msgstr "Freesoul Deactivate Plugins no se puede activar en toda la red, sino solo en cada sitio. %1$s%2$s%3$s"
+
+#: admin/eos-dp-helper.php:402
+msgid "Only the permalinks structures \"Day and name\", \"Month and name\", \"Post name\"  and the custom ones ending with \"%postname%\" are supported (they are also better for SEO)."
+msgstr "Solo son compatibles las estructuras de enlaces permanentes «Día y nombre», «Mes y nombre», «Nombre de la entrada» y las personalizadas que terminan con «%postname%» (también son mejores para SEO)."
+
+#: admin/eos-dp-helper.php:401
+msgid "No plugins will be permanently deactivated because %s."
+msgstr "No se desactivará permanentemente ningún plugin porque %s."
+
+#: admin/classes/class-fdp-post-types.php:62 admin/eos-dp-helper.php:1500
+#: admin/fdp-admin.php:174 inc/fdp-metaboxes.php:145
+msgid "Singles"
+msgstr "Individuales"
+
+#: admin/eos-dp-helper.php:405 admin/templates/partials/eos-dp-footer.php:24
+msgid "Change Permalinks Structure"
+msgstr "Cambiar estructura de enlaces permanentes"
+
+#: admin/templates/partials/eos-dp-footer.php:23
+msgid "You can't save because %s"
+msgstr "No puedes guardar porque %s"
+
+#: admin/eos-dp-helper.php:396 admin/templates/partials/eos-dp-footer.php:19
+msgid "the permalinks are set as numeric"
+msgstr "los enlaces permanentes están establecidos como numéricos"
+
+#: admin/eos-dp-helper.php:394 admin/templates/partials/eos-dp-footer.php:17
+msgid "the permalinks are set as plain"
+msgstr "los enlaces permanentes están establecidos como simples"
+
+#: admin/eos-dp-helper.php:392 admin/templates/partials/eos-dp-footer.php:15
+msgid "the actual permalinks structure is not supported"
+msgstr "la estructura actual de los enlaces permanentes no es compatible"
+
+#: admin/fdp-admin.php:168
+msgid "Terms Archives"
+msgstr "Archivos de términos"
+
+#: admin/eos-dp-helper.php:341
+msgid "Deactivate by Term Archive"
+msgstr "Desactivar por archivo de términos"
+
+#: admin/classes/class-fdp-archives.php:122 admin/eos-dp-helper.php:340
+#: admin/eos-dp-helper.php:1514 admin/fdp-admin.php:166
+msgid "Archives"
+msgstr "Archivos"
+
+#: admin/eos-dp-helper.php:339 admin/eos-dp-helper.php:1508
+#: admin/fdp-admin.php:167 inc/fdp-metaboxes.php:129
+msgid "Post Types"
+msgstr "Tipos de contenido"
+
+#: admin/classes/class-fdp-post-types.php:56
+msgid "If activated the Single %s Settings will have this row settings as default."
+msgstr "Si está activado, los ajustes de %s individual tendrá por defecto los ajustes de esta fila."
+
+#: admin/classes/class-fdp-post-types.php:52
+msgid "If activated the Single %s Settings will be ignored."
+msgstr "Si está activado, se ignorarán los ajustes de %s individual."
+
+#: admin/classes/class-fdp-post-types.php:151
+#: admin/classes/class-fdp-post-types.php:158
+#: admin/templates/partials/eos-dp-post-types-legend.php:55
+#: admin/templates/partials/eos-dp-post-types-legend.php:62
+msgid "Do not set as default on new posts."
+msgstr "No establecer por defecto en las nuevas entradas."
+
+#: admin/classes/class-fdp-post-types.php:139
+#: admin/classes/class-fdp-post-types.php:145
+#: admin/templates/partials/eos-dp-post-types-legend.php:43
+#: admin/templates/partials/eos-dp-post-types-legend.php:49
+msgid "Set as default on new posts."
+msgstr "Establecer por defecto en las nuevas entradas."
+
+#: admin/classes/class-fdp-terms-archives.php:347
+msgid "You have no %s"
+msgstr "No tienes %s"
+
+#: admin/classes/class-fdp-frontend-singles.php:388
+#: admin/classes/class-fdp-frontend-singles.php:390
+msgid "Search By Category"
+msgstr "Buscar por categoría"
+
+#: admin/templates/partials/eos-dp-singles-pagination.php:43
+msgid "Current Page"
+msgstr "Página actual"
+
+#: admin/templates/partials/eos-dp-singles-pagination.php:12
+msgid "%s items"
+msgstr "%s elementos"
+
+#: admin/classes/class-fdp-frontend-singles.php:346
+msgid "Descending"
+msgstr "Descendente"
+
+#: admin/classes/class-fdp-frontend-singles.php:345
+msgid "Ascending"
+msgstr "Ascendente"
+
+#: admin/classes/class-fdp-frontend-singles.php:343
+msgid "Order"
+msgstr "Orden"
+
+#: admin/classes/class-fdp-frontend-singles.php:337
+msgid "Last modified date"
+msgstr "Última fecha de modificación"
+
+#: admin/classes/class-fdp-frontend-singles.php:336
+msgid "Date"
+msgstr "Fecha"
+
+#: admin/classes/class-fdp-frontend-singles.php:335
+msgid "Author"
+msgstr "Autor"
+
+#: admin/classes/class-fdp-frontend-singles.php:334
+msgid "Post id"
+msgstr "ID de la entrada"
+
+#: admin/classes/class-fdp-frontend-singles.php:333
+msgid "Title"
+msgstr "Título"
+
+#: admin/classes/class-fdp-frontend-singles.php:331
+msgid "Order by"
+msgstr "Ordenar por"
+
+#: admin/classes/class-fdp-frontend-singles.php:327
+msgid "Number of posts"
+msgstr "Número de entradas"
+
+#: admin/classes/class-fdp-frontend-singles.php:232
+msgid "Category id %s"
+msgstr "ID de la categoría %s"
+
+#: admin/classes/class-fdp-frontend-singles.php:232
+msgid "the category \"%s\""
+msgstr "la categoría «%s»"
+
+#: admin/classes/class-fdp-frontend-singles.php:225
+#: admin/classes/class-fdp-frontend-singles.php:234
+msgid "Results for %s"
+msgstr "Resultados para %s"
+
+#: admin/eos-dp-helper.php:340
+msgid "Deactivate by Archive"
+msgstr "Desactivar por archivo"
+
+#: admin/classes/class-fdp-frontend-singles.php:551
+msgid "Untitled (post id:%s)"
+msgstr "Sin título (ID de la entrada: %s)"
+
+#: admin/classes/class-fdp-archives.php:186
+#: admin/classes/class-fdp-terms-archives.php:207
+msgid "%s Archive"
+msgstr "Archivo de %s"
+
+#: admin/classes/abstracts/class-eos-fdp-plugins-manager-page.php:132
+#: admin/classes/class-fdp-settings-page.php:34
+#: admin/templates/pages/eos-dp-favorite-plugins.php:15
+#: admin/templates/pages/eos-dp-firing-order.php:14
+#: admin/templates/pages/eos-dp-help.php:14
+#: admin/templates/pages/eos-dp-integration.php:14
+#: admin/templates/pages/eos-dp-roles-manager.php:14
+#: admin/templates/pages/eos-dp-smoke-tests.php:14
+msgid "Sorry, you have not the right for this page"
+msgstr "Lo siento, no tienes permiso para ver esta página"
+
+#: admin/templates/partials/eos-dp-footer.php:47
+#: integrations/code-profiler.php:84
+msgid "Something went wrong, maybe you need to refresh the page and try again, but you will lose all your changes"
+msgstr "Algo ha ido mal. Quizá necesites actualizar la página e intentarlo de nuevo, pero perderás todos tus cambios"
+
+#: admin/templates/partials/eos-dp-footer.php:44
+msgid "Options saved."
+msgstr "Opciones guardadas."
+
+#: admin/eos-dp-helper.php:385
+msgid "Ajax loader"
+msgstr "Cargador Ajax"
+
+#: admin/templates/partials/eos-dp-footer.php:40
+msgid "Save all changes"
+msgstr "Guardar todos los cambios"
+
+#: admin/classes/class-fdp-archives.php:185
+#: admin/classes/class-fdp-backend-singles.php:289
+#: admin/classes/class-fdp-frontend-singles.php:544
+#: admin/classes/class-fdp-post-types.php:51
+#: admin/classes/class-fdp-terms-archives.php:205
+msgid "Activate/deactivate all plugins in %s"
+msgstr "Activar/desactivar todos los plugins en %s"
+
+#: admin/classes/class-fdp-backend-singles.php:100
+#: admin/classes/class-fdp-terms-archives.php:122
+#: admin/templates/pages/eos-dp-addons.php:117
+#: admin/templates/partials/eos-dp-navigation.php:173
+msgid "All"
+msgstr "Todos"
+
+#: admin/templates/partials/eos-dp-table-head.php:55
+msgid "Restore last saved options for %s everywhere"
+msgstr "Restaurar las últimas opciones guardadas para %s en todas partes"
+
+#: admin/classes/abstracts/class-eos-fdp-matrix-page.php:106
+#: admin/classes/class-fdp-one-column-page.php:157 admin/fdp-admin.php:260
+#: admin/templates/partials/eos-dp-table-head.php:53
+msgid "Activate/deactivate %s everywhere"
+msgstr "Activar/desactivar %s en todas partes"
+
+#: admin/templates/partials/eos-dp-table-head.php:23
+msgid "Back to last saved settings"
+msgstr "Volver a los últimos ajustes guardados"
+
+#: admin/templates/partials/eos-dp-table-head.php:23
+msgid "Restore last saved options"
+msgstr "Restaurar las últimas opciones guardadas"
+
+#: admin/classes/class-fdp-one-column-page.php:79 inc/fdp-metaboxes.php:178
+msgid "Plugin not active"
+msgstr "Plugin inactivo"
+
+#: admin/classes/class-fdp-one-column-page.php:77 inc/fdp-metaboxes.php:177
+msgid "Plugin active"
+msgstr "Plugin activo"
+
+#. Plugin Name of the plugin
+#: freesoul-deactivate-plugins.php admin/eos-dp-helper.php:310
+#: admin/eos-dp-helper.php:311 inc/fdp-metaboxes.php:28
+msgid "Freesoul Deactivate Plugins"
+msgstr "Freesoul Deactivate Plugins"
+
+#: admin/eos-dp-helper.php:215
+msgid "You have no direct write access, Freesoul Deactivate Plugins was not able to create the necessary mu-plugin and will not work."
+msgstr "No tienes acceso directo a escritura. Freesoul Deactivate Plugins no ha podido crear el plugin imprescindible necesario y no funcionará."
+
+#: admin/eos-dp-helper.php:168
+#: admin/templates/partials/eos-dp-before-main-nav.php:28
+msgid "Settings"
+msgstr "Ajustes"

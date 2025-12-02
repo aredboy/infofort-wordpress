@@ -1,0 +1,15 @@
+/*
+ Theme Name: Astra Child (ANSV)
+ Template: astra
+ Description: Child theme para aplicar ajustes específicos (ANSV Cajas).
+ Version: 1.0
+*/
+
+body.ansv-has-ansv-form {
+  /* clase útil para pruebas en DevTools */
+}
+
+/* Estilos mínimos útiles para el formulario si querés */
+.ansv-messages { margin-bottom: 12px; }
+.ansv-field-error { color: #b02a37; margin-top: 6px; font-size: 13px; }
+.ansv-error-field { box-shadow: 0 0 0 2px rgba(176,42,55,0.12) !important; }

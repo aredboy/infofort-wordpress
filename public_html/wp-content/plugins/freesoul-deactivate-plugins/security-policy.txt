@@ -1,0 +1,67 @@
+# Security Policy for Freesoul Deactivate Plugins
+
+This document outlines the security measures and policies implemented for Freesoul Deactivate Plugins to comply with the **Regulation (EU) 2024/2847** on cyber resilience.
+
+## 1. **Scope**
+
+The security policy applies to:
+- All components of the Freesoul Deactivate Plugins codebase.
+- Any data processed or stored by the plugin.
+- Updates and patches released for the plugin.
+
+## 2. **Development Practices**
+
+- **Secure Coding Standards**: All code is written following best practices for secure coding, including OWASP guidelines.
+- **Regular Code Reviews**: The codebase is reviewed by a security team to identify and mitigate vulnerabilities.
+- **Dependency Management**: Excluding jQuery, the plugin has no third-party libraries. We are working to remove jQuery from Freesoul Deactivate Plugins.
+
+## 3. **Product Security Requirements**
+
+### 3.1 Secure Configuration
+- The plugin operates with the minimum privileges required.
+- All default settings prioritize security, with users required to explicitly enable riskier features.
+
+### 3.2 Data Protection
+- Freesoul Deactivate Plugins doesn't handle any user sensitive information.
+
+
+### 3.3 Authentication and Authorization
+- Access to plugin administrative features is restricted to users with appropriate WordPress roles and permissions.
+- Nonces and capabilities check is implemented for admin-level actions.
+
+## 4. **Vulnerability Management**
+
+### 4.1 Reporting and Disclosure
+- A dedicated vulnerability reporting channel is available at https://patchstack.com/database/vdp/freesoul-deactivate-plugins.
+- The plugin follows a responsible disclosure policy, responding to security reports within **48 hours**.
+
+### 4.2 Patch Management
+- Vulnerabilities are patched within **30 days** of identification.
+- Critical vulnerabilities are addressed immediately, and users who are subscribed to our newsletter are notified of urgent updates.
+
+### 4.3 Update Mechanism
+- The plugin supports automatic updates through the WordPress plugin repository.
+- All updates can be realised only using a secure connection.
+
+## 5. **Monitoring and Incident Response**
+
+- **Activity Logs**: The plugin maintains detailed logs of all administrative actions for audit purposes.
+- **Incident Response Plan**: A predefined plan is in place to handle security incidents, including:
+  - Notification of affected users.
+  - Deployment of fixes.
+  - Post-incident analysis.
+
+## 6. **Compliance and Certification**
+
+- The plugin complies with **Regulation (EU) 2024/2847** requirements for cyber resilience.
+- Independent security audits are conducted annually.
+
+## 7. **User Responsibilities**
+
+- Users must ensure WordPress core and plugins are kept up-to-date.
+- Secure credentials and enable 2FA for admin accounts.
+- Regularly review plugin settings to ensure compliance with their organization’s security policies.
+
+## 8. **Contact and Support**
+
+For security issues or inquiries, please contact us with our contact form at https://freesoul-deactivate-plugins.com/contact/.
